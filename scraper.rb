@@ -1,3 +1,4 @@
+require 'scraperwiki'
 require 'mechanize'
 
 url = "http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?d=last14days&k=LodgementDate&t=217"
@@ -37,7 +38,7 @@ puts application.search("strong").inspect
     record["on_notice_to"] = Date.parse(e.parent.at("DateDue").inner_text).to_s
   end
   
-  if (ScraperWiki.select("* from swdata where `council_reference`='#{record['council_reference']}'").empty? rescue true)
+  if (ScraperWiki.select("* from data where `council_reference`='#{record['council_reference']}'").empty? rescue true)
     ScraperWiki.save_sqlite(['council_reference'], record)
   else
     puts "Skipping already saved record " + record['council_reference']
