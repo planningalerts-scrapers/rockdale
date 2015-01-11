@@ -6,6 +6,9 @@ url = "http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplicat
 agent = Mechanize.new
 page = agent.get(url)
 
+# Stupid agree form
+page.forms.first.checkbox.click
+page = page.forms.first.click_button
 
 page.search('.result').each do |application|
   # Skip multiple addresses
