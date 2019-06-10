@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?d=last14days&k=LodgementDate&o=xml&t=217
+    uri: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx
     body:
       encoding: US-ASCII
       string: ''
@@ -30,19 +30,72 @@ http_interactions:
     headers:
       Cache-Control:
       - private
-      Content-Length:
-      - '360898'
       Content-Type:
-      - application/xml; charset=utf-8
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Vary:
+      - Accept-Encoding
       Set-Cookie:
-      - ASP.NET_SessionId=boflddezjpqerxvz3gbwepxx; path=/; HttpOnly
+      - ASP.NET_SessionId=x3g11rwfzmuvb3gssguxzbbb; path=/; HttpOnly
       X-Frame-Options:
       - ALLOW-FROM http://www.rockdale.nsw.gov.au
       X-Powered-By:
       - ARR/3.0
       - ASP.NET
       Date:
-      - Mon, 10 Jun 2019 05:41:53 GMT
+      - Mon, 10 Jun 2019 05:42:19 GMT
+      Content-Length:
+      - '6196'
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+    http_version: 
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?d=last14days&k=LodgementDate&o=xml&t=217
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=x3g11rwfzmuvb3gssguxzbbb
+      Host:
+      - rccweb.rockdale.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - private
+      Content-Length:
+      - '360898'
+      Content-Type:
+      - application/xml; charset=utf-8
+      X-Frame-Options:
+      - ALLOW-FROM http://www.rockdale.nsw.gov.au
+      X-Powered-By:
+      - ARR/3.0
+      - ASP.NET
+      Date:
+      - Mon, 10 Jun 2019 05:42:19 GMT
     body:
       encoding: UTF-8
       string: "<?xml version=\"1.0\"?><NewDataSet>\r\n  <Application>\r\n    <ApplicationId>331831</ApplicationId>\r\n
