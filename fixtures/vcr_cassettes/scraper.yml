@@ -31,483 +31,21 @@ http_interactions:
       Cache-Control:
       - private
       Content-Length:
-      - '394520'
+      - '360898'
       Content-Type:
       - application/xml; charset=utf-8
       Set-Cookie:
-      - ASP.NET_SessionId=kejoa0ohohgakboklxew0zsp; path=/; HttpOnly
+      - ASP.NET_SessionId=boflddezjpqerxvz3gbwepxx; path=/; HttpOnly
       X-Frame-Options:
       - ALLOW-FROM http://www.rockdale.nsw.gov.au
       X-Powered-By:
       - ARR/3.0
       - ASP.NET
       Date:
-      - Fri, 07 Jun 2019 02:25:22 GMT
+      - Mon, 10 Jun 2019 05:41:53 GMT
     body:
       encoding: UTF-8
-      string: "<?xml version=\"1.0\"?><NewDataSet>\r\n  <Application>\r\n    <ApplicationId>331750</ApplicationId>\r\n
-        \   <NatureOfApplication>Construction Certificate                          </NatureOfApplication>\r\n
-        \   <NatureOfApplicationType>456</NatureOfApplicationType>\r\n    <ReferenceNumber>CC-2017/11182/1</ReferenceNumber>\r\n
-        \   <Status>Inactive</Status>\r\n    <ReferenceNumberYear>2017</ReferenceNumberYear>\r\n
-        \   <ReferenceNumberNumber>11182</ReferenceNumberNumber>\r\n    <Stage>1</Stage>\r\n
-        \   <ApplicationDetails>Refer to BCC 2017/1182/1</ApplicationDetails>\r\n
-        \   <CreatedDate>2019-05-24T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-05-24T00:00:00+10:00</LodgementDate>\r\n
-        \   <EstimatedCost>19000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>14</DADays>\r\n
-        \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CC</NatureOfApplicationTypeAlpha>\r\n
-        \   <ApplicationIdS>331750</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>331750</ApplicationId>\r\n
-        \     <DeterminationDate>2019-05-25T11:06:39.21+10:00</DeterminationDate>\r\n
-        \     <EffectiveDate>2019-05-25T00:00:00+10:00</EffectiveDate>\r\n      <DeterminationType>Void</DeterminationType>\r\n
-        \     <ApplicationIdS>331750</ApplicationIdS>\r\n    </Determination>\r\n
-        \   <Address>\r\n      <PropertyId>473218</PropertyId>\r\n      <ApplicationId>331750</ApplicationId>\r\n
-        \     <Line1>48 Bunnerong Road</Line1>\r\n      <Line2>PAGEWOOD NSW 2035                                              </Line2>\r\n
-        \     <FullLegalDescription>Lot 12  SecD  DP 16792</FullLegalDescription>\r\n
-        \     <PropertyStatus>C</PropertyStatus>\r\n      <ApplicationIdS>331750</ApplicationIdS>\r\n
-        \   </Address>\r\n    <Party>\r\n      <PartyId>706245</PartyId>\r\n      <ApplicationId>331750</ApplicationId>\r\n
-        \     <PartyRole>Applicant                                         </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>HATZIS</FamilyName>\r\n
-        \     <GivenName>BILL </GivenName>\r\n      <Initial>B    </Initial>\r\n      <NameType>P</NameType>\r\n
-        \     <FullName>Mr Bill Hatzis</FullName>\r\n      <Line1>48 Bunnerong Rd\rPAGEWOOD
-        \ NSW  2035</Line1>\r\n      <ApplicationIdS>331750</ApplicationIdS>\r\n    </Party>\r\n
-        \   <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>331750</ApplicationId>\r\n
-        \     <PartyRole>Municipality                                      </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Bayside Council                                   </FullName>\r\n
-        \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>331750</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Event>\r\n      <ApplicationId>331750</ApplicationId>\r\n
-        \     <ApplicationIdS>331750</ApplicationIdS>\r\n    </Event>\r\n  </Application>\r\n
-        \ <Application>\r\n    <ApplicationId>331696</ApplicationId>\r\n    <NatureOfApplication>Complying
-        Development                             </NatureOfApplication>\r\n    <NatureOfApplicationType>458</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>CD-2019/154</ReferenceNumber>\r\n    <Status>Determined</Status>\r\n
-        \   <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n    <ReferenceNumberNumber>154</ReferenceNumberNumber>\r\n
-        \   <ApplicationDetails>Demolition of existing house and in-ground swimming
-        pool. Erection of a new double storey residence.</ApplicationDetails>\r\n
-        \   <CreatedDate>2019-01-24T00:00:00+11:00</CreatedDate>\r\n    <LodgementDate>2019-05-24T00:00:00+10:00</LodgementDate>\r\n
-        \   <EstimatedCost>350000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>134</DADays>\r\n
-        \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n
-        \   <ApplicationIdS>331696</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>331696</ApplicationId>\r\n
-        \     <DeterminationDate>2019-05-22T00:00:00+10:00</DeterminationDate>\r\n
-        \     <EffectiveDate>2019-05-22T00:00:00+10:00</EffectiveDate>\r\n      <DeterminationType>Approved</DeterminationType>\r\n
-        \     <AuthorityParty>Private Certifier                                 </AuthorityParty>\r\n
-        \     <ApplicationIdS>331696</ApplicationIdS>\r\n    </Determination>\r\n
-        \   <Address>\r\n      <PropertyId>421598</PropertyId>\r\n      <ApplicationId>331696</ApplicationId>\r\n
-        \     <Line1>22 Cecil Street</Line1>\r\n      <Line2>MONTEREY NSW 2217                                              </Line2>\r\n
-        \     <FullLegalDescription>Lot 19  Sec1  DP 736</FullLegalDescription>\r\n
-        \     <PropertyStatus>C</PropertyStatus>\r\n      <ApplicationIdS>331696</ApplicationIdS>\r\n
-        \   </Address>\r\n    <Party>\r\n      <PartyId>601321</PartyId>\r\n      <ApplicationId>331696</ApplicationId>\r\n
-        \     <PartyRole>Applicant                                         </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>BREEZE</FamilyName>\r\n
-        \     <GivenName>AMBER </GivenName>\r\n      <Initial>A    </Initial>\r\n
-        \     <NameType>P</NameType>\r\n      <FullName>Ms Amber Breeze</FullName>\r\n
-        \     <Line1>22 Cecil St\rMONTEREY  NSW  2217</Line1>\r\n      <ApplicationIdS>331696</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Party>\r\n      <PartyId>601320</PartyId>\r\n      <ApplicationId>331696</ApplicationId>\r\n
-        \     <PartyRole>Applicant                                         </PartyRole>\r\n
-        \     <Sequence>2</Sequence>\r\n      <FamilyName>KAITU</FamilyName>\r\n      <GivenName>DAMIEN
-        WILLIAM</GivenName>\r\n      <Initial>DW   </Initial>\r\n      <NameType>P</NameType>\r\n
-        \     <FullName>Mr Damien William Kaitu</FullName>\r\n      <Line1>22 Cecil
-        St\rMONTEREY  NSW  2217</Line1>\r\n      <ApplicationIdS>331696</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>331696</ApplicationId>\r\n
-        \     <PartyRole>Municipality                                      </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Bayside Council                                   </FullName>\r\n
-        \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>331696</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Party>\r\n      <PartyId>639564</PartyId>\r\n      <ApplicationId>331696</ApplicationId>\r\n
-        \     <PartyRole>Private Certifier                                 </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>HOOD</FamilyName>\r\n      <GivenName>RHYS
-        </GivenName>\r\n      <Initial>R    </Initial>\r\n      <NameType>P</NameType>\r\n
-        \     <FullName>Mr Rhys Hood</FullName>\r\n      <Line1>C/- My Building Certifier
-        Pty Ltd\r1/146 Oak Rd\rKIRRAWEE  NSW  2232</Line1>\r\n      <ApplicationIdS>331696</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Event>\r\n      <ApplicationId>331696</ApplicationId>\r\n
-        \     <ApplicationIdS>331696</ApplicationIdS>\r\n    </Event>\r\n  </Application>\r\n
-        \ <Application>\r\n    <ApplicationId>331717</ApplicationId>\r\n    <NatureOfApplication>Complying
-        Development                             </NatureOfApplication>\r\n    <NatureOfApplicationType>458</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>CD-2019/155</ReferenceNumber>\r\n    <Status>Under Assessment</Status>\r\n
-        \   <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n    <ReferenceNumberNumber>155</ReferenceNumberNumber>\r\n
-        \   <ApplicationDetails>Fitout of existing shop for cafe kiosk installing
-        front counter, coffee machine, food fridge, food freezer and display fridges</ApplicationDetails>\r\n
-        \   <CreatedDate>2019-05-24T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-05-24T00:00:00+10:00</LodgementDate>\r\n
-        \   <EstimatedCost>30000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <Officer>Tim
-        Debeck                                        </Officer>\r\n    <OfficerId>1051</OfficerId>\r\n
-        \   <DADays>14</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
-        \   <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>331717</ApplicationIdS>\r\n
-        \   <Address>\r\n      <PropertyId>466846</PropertyId>\r\n      <ApplicationId>331717</ApplicationId>\r\n
-        \     <Line1>1 / 10 Reede Street</Line1>\r\n      <Line2>TURRELLA NSW 2205
-        \                                             </Line2>\r\n      <FullLegalDescription>Lot
-        211  SP 90613</FullLegalDescription>\r\n      <PropertyStatus>C</PropertyStatus>\r\n
-        \     <ApplicationIdS>331717</ApplicationIdS>\r\n    </Address>\r\n    <Party>\r\n
-        \     <PartyId>548908</PartyId>\r\n      <ApplicationId>331717</ApplicationId>\r\n
-        \     <PartyRole>Applicant                                         </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>ZAFIR PTY LTD</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Zafir Pty Ltd                                     </FullName>\r\n
-        \     <Line1>27 Knoll Ave\rTURRELLA  NSW  2205</Line1>\r\n      <ApplicationIdS>331717</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>331717</ApplicationId>\r\n
-        \     <PartyRole>Municipality                                      </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Bayside Council                                   </FullName>\r\n
-        \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>331717</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Event>\r\n      <ApplicationId>331717</ApplicationId>\r\n
-        \     <ApplicationIdS>331717</ApplicationIdS>\r\n    </Event>\r\n  </Application>\r\n
-        \ <Application>\r\n    <ApplicationId>331745</ApplicationId>\r\n    <NatureOfApplication>Complying
-        Development                             </NatureOfApplication>\r\n    <NatureOfApplicationType>458</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>CD-2019/156</ReferenceNumber>\r\n    <Status>Under Assessment</Status>\r\n
-        \   <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n    <ReferenceNumberNumber>156</ReferenceNumberNumber>\r\n
-        \   <ApplicationDetails>Extension of a double brick house to include a master
-        bedroom, double garage and study / lounge room</ApplicationDetails>\r\n    <CreatedDate>2019-05-24T00:00:00+10:00</CreatedDate>\r\n
-        \   <LodgementDate>2019-05-24T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>80000.000000</EstimatedCost>\r\n
-        \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
-        \   <Officer>Sam Zafiropoulos                                  </Officer>\r\n
-        \   <OfficerId>1156</OfficerId>\r\n    <DADays>14</DADays>\r\n    <GroupId>Routine
-        - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n
-        \   <ApplicationIdS>331745</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>434571</PropertyId>\r\n
-        \     <ApplicationId>331745</ApplicationId>\r\n      <Line1>49 Staples Street</Line1>\r\n
-        \     <Line2>KINGSGROVE NSW 2208                                              </Line2>\r\n
-        \     <FullLegalDescription>Lot 1  DP 583667</FullLegalDescription>\r\n      <PropertyStatus>C</PropertyStatus>\r\n
-        \     <ApplicationIdS>331745</ApplicationIdS>\r\n    </Address>\r\n    <Party>\r\n
-        \     <PartyId>635140</PartyId>\r\n      <ApplicationId>331745</ApplicationId>\r\n
-        \     <PartyRole>Applicant                                         </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>PERRIS</FamilyName>\r\n
-        \     <GivenName>STAMATIOS </GivenName>\r\n      <Initial>S    </Initial>\r\n
-        \     <NameType>P</NameType>\r\n      <FullName>Mr Stamatios Perris</FullName>\r\n
-        \     <Line1>49 Staples St\rKINGSGROVE  NSW  2208</Line1>\r\n      <ApplicationIdS>331745</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>331745</ApplicationId>\r\n
-        \     <PartyRole>Municipality                                      </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Bayside Council                                   </FullName>\r\n
-        \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>331745</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Event>\r\n      <ApplicationId>331745</ApplicationId>\r\n
-        \     <ApplicationIdS>331745</ApplicationIdS>\r\n    </Event>\r\n  </Application>\r\n
-        \ <Application>\r\n    <ApplicationId>331700</ApplicationId>\r\n    <NatureOfApplication>Development
-        Application                           </NatureOfApplication>\r\n    <NatureOfApplicationType>455</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>DA-2019/166</ReferenceNumber>\r\n    <Status>Under Assessment</Status>\r\n
-        \   <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n    <ReferenceNumberNumber>166</ReferenceNumberNumber>\r\n
-        \   <ApplicationDetails>Demolition of existing dwelling</ApplicationDetails>\r\n
-        \   <CreatedDate>2019-05-24T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-05-24T00:00:00+10:00</LodgementDate>\r\n
-        \   <EstimatedCost>10000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <Officer>Helen
-        Lai                                         </Officer>\r\n    <OfficerId>1024</OfficerId>\r\n
-        \   <DADays>14</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
-        \   <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>331700</ApplicationIdS>\r\n
-        \   <Address>\r\n      <PropertyId>471763</PropertyId>\r\n      <ApplicationId>331700</ApplicationId>\r\n
-        \     <Line1>72 Banksia Street</Line1>\r\n      <Line2>BOTANY NSW 2019                                              </Line2>\r\n
-        \     <FullLegalDescription>Lot 29  SecG  DP 1787</FullLegalDescription>\r\n
-        \     <PropertyStatus>C</PropertyStatus>\r\n      <ApplicationIdS>331700</ApplicationIdS>\r\n
-        \   </Address>\r\n    <Party>\r\n      <PartyId>723706</PartyId>\r\n      <ApplicationId>331700</ApplicationId>\r\n
-        \     <PartyRole>Applicant                                         </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>HASSARATI</FamilyName>\r\n
-        \     <GivenName>PAUL </GivenName>\r\n      <Initial>P    </Initial>\r\n      <NameType>P</NameType>\r\n
-        \     <FullName>Mr Paul Hassarati</FullName>\r\n      <Line1>3 Augusta St\rSTRATHFIELD
-        \ NSW  2135</Line1>\r\n      <ApplicationIdS>331700</ApplicationIdS>\r\n    </Party>\r\n
-        \   <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>331700</ApplicationId>\r\n
-        \     <PartyRole>Municipality                                      </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Bayside Council                                   </FullName>\r\n
-        \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>331700</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Event>\r\n      <ApplicationId>331700</ApplicationId>\r\n
-        \     <ApplicationIdS>331700</ApplicationIdS>\r\n    </Event>\r\n    <Assess>\r\n
-        \     <ApplicationId>331700</ApplicationId>\r\n      <ProjectId>3507</ProjectId>\r\n
-        \     <ApplicationIdS>331700</ApplicationIdS>\r\n    </Assess>\r\n  </Application>\r\n
-        \ <Application>\r\n    <ApplicationId>331715</ApplicationId>\r\n    <NatureOfApplication>Development
-        Application                           </NatureOfApplication>\r\n    <NatureOfApplicationType>455</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>DA-2019/167</ReferenceNumber>\r\n    <Status>Under Assessment</Status>\r\n
-        \   <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n    <ReferenceNumberNumber>167</ReferenceNumberNumber>\r\n
-        \   <ApplicationDetails>Demolition of existing rear structures and construction
-        of a detached secondary dwelling with attached garage</ApplicationDetails>\r\n
-        \   <CreatedDate>2019-05-24T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-05-24T00:00:00+10:00</LodgementDate>\r\n
-        \   <EstimatedCost>141300.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <Officer>Ana
-        Trifunovska                                   </Officer>\r\n    <OfficerId>1151</OfficerId>\r\n
-        \   <DADays>14</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
-        \   <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>331715</ApplicationIdS>\r\n
-        \   <Address>\r\n      <PropertyId>428161</PropertyId>\r\n      <ApplicationId>331715</ApplicationId>\r\n
-        \     <Line1>402 Kingsgrove Road</Line1>\r\n      <Line2>KINGSGROVE NSW 2208
-        \                                             </Line2>\r\n      <FullLegalDescription>Lot
-        3  DP 7757</FullLegalDescription>\r\n      <PropertyStatus>C</PropertyStatus>\r\n
-        \     <ApplicationIdS>331715</ApplicationIdS>\r\n    </Address>\r\n    <Party>\r\n
-        \     <PartyId>632206</PartyId>\r\n      <ApplicationId>331715</ApplicationId>\r\n
-        \     <PartyRole>Applicant                                         </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>CEDAR DESIGNS</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Cedar Designs                                     </FullName>\r\n
-        \     <Line1>15 Donald St\rHURSTVILLE  NSW  2220</Line1>\r\n      <ApplicationIdS>331715</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>331715</ApplicationId>\r\n
-        \     <PartyRole>Municipality                                      </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Bayside Council                                   </FullName>\r\n
-        \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>331715</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Event>\r\n      <ApplicationId>331715</ApplicationId>\r\n
-        \     <ApplicationIdS>331715</ApplicationIdS>\r\n    </Event>\r\n    <Assess>\r\n
-        \     <ApplicationId>331715</ApplicationId>\r\n      <ProjectId>3508</ProjectId>\r\n
-        \     <ApplicationIdS>331715</ApplicationIdS>\r\n    </Assess>\r\n  </Application>\r\n
-        \ <Application>\r\n    <ApplicationId>331718</ApplicationId>\r\n    <NatureOfApplication>Development
-        Application                           </NatureOfApplication>\r\n    <NatureOfApplicationType>455</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>DA-2019/168</ReferenceNumber>\r\n    <Status>Under Assessment</Status>\r\n
-        \   <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n    <ReferenceNumberNumber>168</ReferenceNumberNumber>\r\n
-        \   <ApplicationDetails>Alterations and additions to existing dwelling and
-        construction of a secondary dwelling</ApplicationDetails>\r\n    <CreatedDate>2019-05-24T00:00:00+10:00</CreatedDate>\r\n
-        \   <LodgementDate>2019-05-24T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>259600.000000</EstimatedCost>\r\n
-        \   <Officer>Luke Boadle                                       </Officer>\r\n
-        \   <OfficerId>1010</OfficerId>\r\n    <DADays>14</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
-        \   <ApplicationIdS>331718</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>478924</PropertyId>\r\n
-        \     <ApplicationId>331718</ApplicationId>\r\n      <Line1>106 Tenterden
-        Road</Line1>\r\n      <Line2>BOTANY NSW 2019                                              </Line2>\r\n
-        \     <FullLegalDescription>Lot 95  DP 15897</FullLegalDescription>\r\n      <PropertyStatus>C</PropertyStatus>\r\n
-        \     <ApplicationIdS>331718</ApplicationIdS>\r\n    </Address>\r\n    <Party>\r\n
-        \     <PartyId>444444</PartyId>\r\n      <ApplicationId>331718</ApplicationId>\r\n
-        \     <PartyRole>Applicant                                         </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>SPITERI</FamilyName>\r\n
-        \     <GivenName>JOHN </GivenName>\r\n      <Initial>J    </Initial>\r\n      <NameType>P</NameType>\r\n
-        \     <FullName>Mr John Spiteri</FullName>\r\n      <Line1>31a Tierney Ave\rEASTGARDENS
-        \ NSW  2036</Line1>\r\n      <ApplicationIdS>331718</ApplicationIdS>\r\n    </Party>\r\n
-        \   <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>331718</ApplicationId>\r\n
-        \     <PartyRole>Municipality                                      </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Bayside Council                                   </FullName>\r\n
-        \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>331718</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Event>\r\n      <ApplicationId>331718</ApplicationId>\r\n
-        \     <ApplicationIdS>331718</ApplicationIdS>\r\n    </Event>\r\n    <Assess>\r\n
-        \     <ApplicationId>331718</ApplicationId>\r\n      <ProjectId>3514</ProjectId>\r\n
-        \     <ApplicationIdS>331718</ApplicationIdS>\r\n    </Assess>\r\n  </Application>\r\n
-        \ <Application>\r\n    <ApplicationId>331738</ApplicationId>\r\n    <NatureOfApplication>Development
-        Application                           </NatureOfApplication>\r\n    <NatureOfApplicationType>455</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>DA-2019/169</ReferenceNumber>\r\n    <Status>Under Assessment</Status>\r\n
-        \   <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n    <ReferenceNumberNumber>169</ReferenceNumberNumber>\r\n
-        \   <ApplicationDetails>Demolition of existing dwelling and construction of
-        new single storey dwelling, hardstand car space in the front setback and front
-        fence</ApplicationDetails>\r\n    <CreatedDate>2019-05-24T00:00:00+10:00</CreatedDate>\r\n
-        \   <LodgementDate>2019-05-24T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>150000.000000</EstimatedCost>\r\n
-        \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
-        \   <Officer>Ayse Kiziltekin                                   </Officer>\r\n
-        \   <OfficerId>1348</OfficerId>\r\n    <DADays>14</DADays>\r\n    <GroupId>Routine
-        - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
-        \   <ApplicationIdS>331738</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>479168</PropertyId>\r\n
-        \     <ApplicationId>331738</ApplicationId>\r\n      <Line1>2 Tramway Street</Line1>\r\n
-        \     <Line2>ROSEBERY NSW 2018                                              </Line2>\r\n
-        \     <FullLegalDescription>Lot A  DP 162984</FullLegalDescription>\r\n      <PropertyStatus>C</PropertyStatus>\r\n
-        \     <ApplicationIdS>331738</ApplicationIdS>\r\n    </Address>\r\n    <Party>\r\n
-        \     <PartyId>732377</PartyId>\r\n      <ApplicationId>331738</ApplicationId>\r\n
-        \     <PartyRole>Applicant                                         </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>STRUCTABILITY</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Structability                                     </FullName>\r\n
-        \     <Line1>PO BOX 596\rKOGARAH  NSW  1485</Line1>\r\n      <ApplicationIdS>331738</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>331738</ApplicationId>\r\n
-        \     <PartyRole>Municipality                                      </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Bayside Council                                   </FullName>\r\n
-        \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>331738</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Event>\r\n      <ApplicationId>331738</ApplicationId>\r\n
-        \     <ApplicationIdS>331738</ApplicationIdS>\r\n    </Event>\r\n    <Assess>\r\n
-        \     <ApplicationId>331738</ApplicationId>\r\n      <ProjectId>3515</ProjectId>\r\n
-        \     <ApplicationIdS>331738</ApplicationIdS>\r\n    </Assess>\r\n  </Application>\r\n
-        \ <Application>\r\n    <ApplicationId>331741</ApplicationId>\r\n    <NatureOfApplication>Development
-        Application                           </NatureOfApplication>\r\n    <NatureOfApplicationType>455</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>DA-2019/170</ReferenceNumber>\r\n    <Status>Under Assessment</Status>\r\n
-        \   <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n    <ReferenceNumberNumber>170</ReferenceNumberNumber>\r\n
-        \   <ApplicationDetails>Construction of an awning to terrace of residential
-        unit</ApplicationDetails>\r\n    <CreatedDate>2019-05-24T00:00:00+10:00</CreatedDate>\r\n
-        \   <LodgementDate>2019-05-24T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>16900.000000</EstimatedCost>\r\n
-        \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
-        \   <Officer>Nitin Thomas                                      </Officer>\r\n
-        \   <OfficerId>1058</OfficerId>\r\n    <DADays>14</DADays>\r\n    <GroupId>Routine
-        - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
-        \   <ApplicationIdS>331741</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>466094</PropertyId>\r\n
-        \     <ApplicationId>331741</ApplicationId>\r\n      <Line1>202 / 342  - 344
-        Bay Street</Line1>\r\n      <Line2>BRIGHTON LE SANDS NSW 2216                                              </Line2>\r\n
-        \     <FullLegalDescription>Lot 2  SP 89466</FullLegalDescription>\r\n      <PropertyStatus>C</PropertyStatus>\r\n
-        \     <ApplicationIdS>331741</ApplicationIdS>\r\n    </Address>\r\n    <Party>\r\n
-        \     <PartyId>732379</PartyId>\r\n      <ApplicationId>331741</ApplicationId>\r\n
-        \     <PartyRole>Applicant                                         </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>URBAN EXTERIORS</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Urban Exteriors                                   </FullName>\r\n
-        \     <Line1>PO BOX 4440\rNORTH ROCKS  NSW  2151</Line1>\r\n      <ApplicationIdS>331741</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>331741</ApplicationId>\r\n
-        \     <PartyRole>Municipality                                      </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Bayside Council                                   </FullName>\r\n
-        \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>331741</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Event>\r\n      <ApplicationId>331741</ApplicationId>\r\n
-        \     <ApplicationIdS>331741</ApplicationIdS>\r\n    </Event>\r\n    <Assess>\r\n
-        \     <ApplicationId>331741</ApplicationId>\r\n      <ProjectId>3516</ProjectId>\r\n
-        \     <ApplicationIdS>331741</ApplicationIdS>\r\n    </Assess>\r\n  </Application>\r\n
-        \ <Application>\r\n    <ApplicationId>331732</ApplicationId>\r\n    <NatureOfApplication>Subdivision
-        Certificate                           </NatureOfApplication>\r\n    <NatureOfApplicationType>484</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>SC-2019/25</ReferenceNumber>\r\n    <Status>Under Assessment</Status>\r\n
-        \   <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n    <ReferenceNumberNumber>25</ReferenceNumberNumber>\r\n
-        \   <ApplicationDetails>Torrens Title Subdivision creating one (1) additional
-        lot and two (2) lots total</ApplicationDetails>\r\n    <CreatedDate>2019-05-24T00:00:00+10:00</CreatedDate>\r\n
-        \   <LodgementDate>2019-05-24T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>0.000000</EstimatedCost>\r\n
-        \   <OfficerTitle>Complex - Building Class 2-9                      </OfficerTitle>\r\n
-        \   <Officer>Peter Ward                                        </Officer>\r\n
-        \   <OfficerId>1161</OfficerId>\r\n    <DADays>14</DADays>\r\n    <GroupId>Complex
-        - Building Class 2-9</GroupId>\r\n    <NatureOfApplicationTypeAlpha>SC</NatureOfApplicationTypeAlpha>\r\n
-        \   <ApplicationIdS>331732</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>439082</PropertyId>\r\n
-        \     <ApplicationId>331732</ApplicationId>\r\n      <Line1>586 Rocky Point
-        Road</Line1>\r\n      <Line2>SANS SOUCI NSW 2219                                              </Line2>\r\n
-        \     <FullLegalDescription>Lot 308  DP 2452</FullLegalDescription>\r\n      <PropertyStatus>C</PropertyStatus>\r\n
-        \     <ApplicationIdS>331732</ApplicationIdS>\r\n    </Address>\r\n    <Party>\r\n
-        \     <PartyId>440125</PartyId>\r\n      <ApplicationId>331732</ApplicationId>\r\n
-        \     <PartyRole>Applicant                                         </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>PASSAS</FamilyName>\r\n
-        \     <GivenName>GEORGE </GivenName>\r\n      <Initial>G    </Initial>\r\n
-        \     <NameType>P</NameType>\r\n      <FullName>Mr G Passas</FullName>\r\n
-        \     <Line1>104 The Promenade\rSANS SOUCI  NSW  2219</Line1>\r\n      <ApplicationIdS>331732</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>331732</ApplicationId>\r\n
-        \     <PartyRole>Municipality                                      </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Bayside Council                                   </FullName>\r\n
-        \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>331732</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Event>\r\n      <ApplicationId>331732</ApplicationId>\r\n
-        \     <ApplicationIdS>331732</ApplicationIdS>\r\n    </Event>\r\n    <Assess>\r\n
-        \     <ApplicationId>331732</ApplicationId>\r\n      <ProjectId>3509</ProjectId>\r\n
-        \     <ApplicationIdS>331732</ApplicationIdS>\r\n    </Assess>\r\n  </Application>\r\n
-        \ <Application>\r\n    <ApplicationId>331769</ApplicationId>\r\n    <NatureOfApplication>Construction
-        Certificate                          </NatureOfApplication>\r\n    <NatureOfApplicationType>456</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>CC-2019/141</ReferenceNumber>\r\n    <Status>Determined</Status>\r\n
-        \   <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n    <ReferenceNumberNumber>141</ReferenceNumberNumber>\r\n
-        \   <ApplicationDetails>Demolition of existing outbuilding and construction
-        of a new garage and verandah at the rear of the existing dwelling</ApplicationDetails>\r\n
-        \   <CreatedDate>2019-05-25T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-05-25T00:00:00+10:00</LodgementDate>\r\n
-        \   <EstimatedCost>300000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <Officer>Louie
-        Apostolou                                   </Officer>\r\n    <OfficerId>617</OfficerId>\r\n
-        \   <DADays>13</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
-        \   <NatureOfApplicationTypeAlpha>CC</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>331769</ApplicationIdS>\r\n
-        \   <Determination>\r\n      <ApplicationId>331769</ApplicationId>\r\n      <DeterminationDate>2019-05-31T14:39:02+10:00</DeterminationDate>\r\n
-        \     <EffectiveDate>2019-05-31T00:00:00+10:00</EffectiveDate>\r\n      <DeterminationType>Approved</DeterminationType>\r\n
-        \     <AuthorityParty>Delegated Authority                               </AuthorityParty>\r\n
-        \     <ApplicationIdS>331769</ApplicationIdS>\r\n    </Determination>\r\n
-        \   <Address>\r\n      <PropertyId>423421</PropertyId>\r\n      <ApplicationId>331769</ApplicationId>\r\n
-        \     <Line1>16 Farrell Road</Line1>\r\n      <Line2>KINGSGROVE NSW 2208                                              </Line2>\r\n
-        \     <FullLegalDescription>Lot 53  DP 13572</FullLegalDescription>\r\n      <PropertyStatus>C</PropertyStatus>\r\n
-        \     <ApplicationIdS>331769</ApplicationIdS>\r\n    </Address>\r\n    <Party>\r\n
-        \     <PartyId>470548</PartyId>\r\n      <ApplicationId>331769</ApplicationId>\r\n
-        \     <PartyRole>Applicant                                         </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>KORKOFIGAS</FamilyName>\r\n
-        \     <GivenName>CONSTANTINOS </GivenName>\r\n      <Initial>C    </Initial>\r\n
-        \     <NameType>P</NameType>\r\n      <FullName>Mr Constantinos Korkofigas</FullName>\r\n
-        \     <Line1>16 Farrell Rd\rKINGSGROVE  NSW  2208</Line1>\r\n      <ApplicationIdS>331769</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>331769</ApplicationId>\r\n
-        \     <PartyRole>Municipality                                      </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Bayside Council                                   </FullName>\r\n
-        \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>331769</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Event>\r\n      <ApplicationId>331769</ApplicationId>\r\n
-        \     <ApplicationIdS>331769</ApplicationIdS>\r\n    </Event>\r\n  </Application>\r\n
-        \ <Application>\r\n    <ApplicationId>331771</ApplicationId>\r\n    <NatureOfApplication>Construction
-        Certificate                          </NatureOfApplication>\r\n    <NatureOfApplicationType>456</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>CC-2019/142</ReferenceNumber>\r\n    <Status>Finalised</Status>\r\n
-        \   <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n    <ReferenceNumberNumber>142</ReferenceNumberNumber>\r\n
-        \   <ApplicationDetails>Demolition of existing dwelling and construction of
-        a new 2 storey dwelling and new front fence.</ApplicationDetails>\r\n    <CreatedDate>2019-02-21T00:00:00+11:00</CreatedDate>\r\n
-        \   <LodgementDate>2019-05-25T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>497349.000000</EstimatedCost>\r\n
-        \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
-        \   <DADays>106</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp;
-        10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CC</NatureOfApplicationTypeAlpha>\r\n
-        \   <ApplicationIdS>331771</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>331771</ApplicationId>\r\n
-        \     <DeterminationDate>2019-04-18T00:00:00+10:00</DeterminationDate>\r\n
-        \     <EffectiveDate>2019-04-18T00:00:00+10:00</EffectiveDate>\r\n      <DeterminationType>Approved</DeterminationType>\r\n
-        \     <AuthorityParty>Private Certifier                                 </AuthorityParty>\r\n
-        \     <ApplicationIdS>331771</ApplicationIdS>\r\n    </Determination>\r\n
-        \   <Address>\r\n      <PropertyId>478417</PropertyId>\r\n      <ApplicationId>331771</ApplicationId>\r\n
-        \     <Line1>23 Rolfe Street</Line1>\r\n      <Line2>ROSEBERY NSW 2018                                              </Line2>\r\n
-        \     <FullLegalDescription>Lot 14  DP 5371</FullLegalDescription>\r\n      <PropertyStatus>C</PropertyStatus>\r\n
-        \     <ApplicationIdS>331771</ApplicationIdS>\r\n    </Address>\r\n    <Party>\r\n
-        \     <PartyId>723471</PartyId>\r\n      <ApplicationId>331771</ApplicationId>\r\n
-        \     <PartyRole>Applicant                                         </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>ALI</FamilyName>\r\n      <GivenName>LAURA
-        </GivenName>\r\n      <Initial>L    </Initial>\r\n      <NameType>P</NameType>\r\n
-        \     <FullName>Laura Ali</FullName>\r\n      <Line1>23 Rolfe St\rROSEBERY
-        \ NSW  2018</Line1>\r\n      <ApplicationIdS>331771</ApplicationIdS>\r\n    </Party>\r\n
-        \   <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>331771</ApplicationId>\r\n
-        \     <PartyRole>Municipality                                      </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Bayside Council                                   </FullName>\r\n
-        \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>331771</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Party>\r\n      <PartyId>589919</PartyId>\r\n      <ApplicationId>331771</ApplicationId>\r\n
-        \     <PartyRole>PCA Private                                       </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>JAMES</FamilyName>\r\n      <GivenName>CAMERON
-        </GivenName>\r\n      <Initial>C    </Initial>\r\n      <NameType>P</NameType>\r\n
-        \     <FullName>Mr Cameron James</FullName>\r\n      <Line1>C/- Building Control
-        Group Pty Ltd\rSuite 402, Level 3 Westfield Eastgardens\r152 Bunnerong Rd\rEASTGARDENS
-        \ NSW  2036</Line1>\r\n      <ApplicationIdS>331771</ApplicationIdS>\r\n    </Party>\r\n
-        \   <Party>\r\n      <PartyId>589919</PartyId>\r\n      <ApplicationId>331771</ApplicationId>\r\n
-        \     <PartyRole>Private Certifier                                 </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>JAMES</FamilyName>\r\n      <GivenName>CAMERON
-        </GivenName>\r\n      <Initial>C    </Initial>\r\n      <NameType>P</NameType>\r\n
-        \     <FullName>Mr Cameron James</FullName>\r\n      <Line1>C/- Building Control
-        Group Pty Ltd\rSuite 402, Level 3 Westfield Eastgardens\r152 Bunnerong Rd\rEASTGARDENS
-        \ NSW  2036</Line1>\r\n      <ApplicationIdS>331771</ApplicationIdS>\r\n    </Party>\r\n
-        \   <Event>\r\n      <ApplicationId>331771</ApplicationId>\r\n      <ApplicationIdS>331771</ApplicationIdS>\r\n
-        \   </Event>\r\n  </Application>\r\n  <Application>\r\n    <ApplicationId>331767</ApplicationId>\r\n
-        \   <NatureOfApplication>Complying Development                             </NatureOfApplication>\r\n
-        \   <NatureOfApplicationType>458</NatureOfApplicationType>\r\n    <ReferenceNumber>CD-2019/157</ReferenceNumber>\r\n
-        \   <Status>Awaiting Further Information</Status>\r\n    <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n
-        \   <ReferenceNumberNumber>157</ReferenceNumberNumber>\r\n    <ApplicationDetails>Internal
-        alterations and replace rear door, not inclusive of rear deck and stairs.</ApplicationDetails>\r\n
-        \   <CreatedDate>2018-11-27T00:00:00+11:00</CreatedDate>\r\n    <LodgementDate>2019-05-25T00:00:00+10:00</LodgementDate>\r\n
-        \   <EstimatedCost>0.000000</EstimatedCost>\r\n    <OfficerTitle>Routine -
-        Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>192</DADays>\r\n
-        \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n
-        \   <ApplicationIdS>331767</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>331767</ApplicationId>\r\n
-        \     <DeterminationDate>2019-05-25T10:14:52.63+10:00</DeterminationDate>\r\n
-        \     <EffectiveDate>2019-05-25T00:00:00+10:00</EffectiveDate>\r\n      <DeterminationType>Deferred
-        Commencement</DeterminationType>\r\n      <AuthorityParty>Private Certifier
-        \                                </AuthorityParty>\r\n      <ApplicationIdS>331767</ApplicationIdS>\r\n
-        \   </Determination>\r\n    <Address>\r\n      <PropertyId>476609</PropertyId>\r\n
-        \     <ApplicationId>331767</ApplicationId>\r\n      <Line1>13 Kurnell Street</Line1>\r\n
-        \     <Line2>BOTANY NSW 2019                                              </Line2>\r\n
-        \     <FullLegalDescription>Lot 2  DP 246898</FullLegalDescription>\r\n      <PropertyStatus>C</PropertyStatus>\r\n
-        \     <ApplicationIdS>331767</ApplicationIdS>\r\n    </Address>\r\n    <Party>\r\n
-        \     <PartyId>655453</PartyId>\r\n      <ApplicationId>331767</ApplicationId>\r\n
-        \     <PartyRole>Applicant                                         </PartyRole>\r\n
-        \     <Sequence>2</Sequence>\r\n      <FamilyName>RADZIOWSKY</FamilyName>\r\n
-        \     <GivenName>MICHAEL SYDNEY</GivenName>\r\n      <Initial>MS   </Initial>\r\n
-        \     <NameType>P</NameType>\r\n      <FullName>Mr Michael Sydney Radziowsky</FullName>\r\n
-        \     <Line1>13 Kurnell St\rBOTANY  NSW  2019</Line1>\r\n      <ApplicationIdS>331767</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Party>\r\n      <PartyId>655454</PartyId>\r\n      <ApplicationId>331767</ApplicationId>\r\n
-        \     <PartyRole>Applicant                                         </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>RADZIOWSKY</FamilyName>\r\n
-        \     <GivenName>SHELIA OSULLLIVAN</GivenName>\r\n      <Initial>SO   </Initial>\r\n
-        \     <NameType>P</NameType>\r\n      <FullName>Mrs Shelia O'Sulllivan Radziowsky</FullName>\r\n
-        \     <Line1>13 Kurnell St\rBOTANY  NSW  2019</Line1>\r\n      <ApplicationIdS>331767</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>331767</ApplicationId>\r\n
-        \     <PartyRole>Municipality                                      </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
-        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
-        \     <FullName>Bayside Council                                   </FullName>\r\n
-        \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>331767</ApplicationIdS>\r\n
-        \   </Party>\r\n    <Party>\r\n      <PartyId>519131</PartyId>\r\n      <ApplicationId>331767</ApplicationId>\r\n
-        \     <PartyRole>PCA Private                                       </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>PATTI</FamilyName>\r\n      <GivenName>ANTHONY
-        </GivenName>\r\n      <Initial>A    </Initial>\r\n      <NameType>P</NameType>\r\n
-        \     <FullName>Mr Anthony Patti</FullName>\r\n      <Line1>C/-Anthony Patti
-        Building &amp; Development Consultant\r10 Hall Crs\rPADSTOW HEIGHTS  NSW  2211</Line1>\r\n
-        \     <ApplicationIdS>331767</ApplicationIdS>\r\n    </Party>\r\n    <Party>\r\n
-        \     <PartyId>519131</PartyId>\r\n      <ApplicationId>331767</ApplicationId>\r\n
-        \     <PartyRole>Private Certifier                                 </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>PATTI</FamilyName>\r\n      <GivenName>ANTHONY
-        </GivenName>\r\n      <Initial>A    </Initial>\r\n      <NameType>P</NameType>\r\n
-        \     <FullName>Mr Anthony Patti</FullName>\r\n      <Line1>C/-Anthony Patti
-        Building &amp; Development Consultant\r10 Hall Crs\rPADSTOW HEIGHTS  NSW  2211</Line1>\r\n
-        \     <ApplicationIdS>331767</ApplicationIdS>\r\n    </Party>\r\n    <Event>\r\n
-        \     <ApplicationId>331767</ApplicationId>\r\n      <ApplicationIdS>331767</ApplicationIdS>\r\n
-        \   </Event>\r\n  </Application>\r\n  <Application>\r\n    <ApplicationId>331831</ApplicationId>\r\n
+      string: "<?xml version=\"1.0\"?><NewDataSet>\r\n  <Application>\r\n    <ApplicationId>331831</ApplicationId>\r\n
         \   <NatureOfApplication>Construction Certificate                          </NatureOfApplication>\r\n
         \   <NatureOfApplicationType>456</NatureOfApplicationType>\r\n    <ReferenceNumber>CC-2019/143</ReferenceNumber>\r\n
         \   <Status>Determined</Status>\r\n    <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n
@@ -515,7 +53,7 @@ http_interactions:
         of 10 x 2 Storey Industrial Uniits.</ApplicationDetails>\r\n    <CreatedDate>2019-04-15T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-05-27T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>2771028.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
-        \   <DADays>53</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>56</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>CC</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>331831</ApplicationIdS>\r\n
         \   <Determination>\r\n      <ApplicationId>331831</ApplicationId>\r\n      <DeterminationDate>2019-04-15T00:00:00+10:00</DeterminationDate>\r\n
         \     <EffectiveDate>2019-04-15T00:00:00+10:00</EffectiveDate>\r\n      <DeterminationType>Approved</DeterminationType>\r\n
@@ -560,7 +98,7 @@ http_interactions:
         \   <ApplicationDetails>Alterations and additions</ApplicationDetails>\r\n
         \   <CreatedDate>2019-04-08T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-05-27T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>52000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>60</DADays>\r\n
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>63</DADays>\r\n
         \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>331819</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>331819</ApplicationId>\r\n
         \     <DeterminationDate>2019-05-28T00:00:00+10:00</DeterminationDate>\r\n
@@ -605,7 +143,7 @@ http_interactions:
         \   <ApplicationDetails>Internal alterations to a business premises.</ApplicationDetails>\r\n
         \   <CreatedDate>2018-08-22T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-05-27T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>50000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>289</DADays>\r\n
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>292</DADays>\r\n
         \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>331838</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>331838</ApplicationId>\r\n
         \     <DeterminationDate>2018-12-07T00:00:00+11:00</DeterminationDate>\r\n
@@ -655,7 +193,7 @@ http_interactions:
         to Sunday</ApplicationDetails>\r\n    <CreatedDate>2019-05-27T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-05-27T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>0.000000</EstimatedCost>\r\n
         \   <Officer>Ana Trifunovska                                   </Officer>\r\n
-        \   <OfficerId>1151</OfficerId>\r\n    <DADays>11</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
+        \   <OfficerId>1151</OfficerId>\r\n    <DADays>14</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>331821</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>472918</PropertyId>\r\n
         \     <ApplicationId>331821</ApplicationId>\r\n      <Line1>1021 Botany Road</Line1>\r\n
         \     <Line2>MASCOT NSW 2020                                              </Line2>\r\n
@@ -687,7 +225,7 @@ http_interactions:
         shaft and storage</ApplicationDetails>\r\n    <CreatedDate>2019-05-27T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-05-27T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>0.000000</EstimatedCost>\r\n
         \   <Officer>Fiona Prodromou                                   </Officer>\r\n
-        \   <OfficerId>599</OfficerId>\r\n    <DADays>11</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
+        \   <OfficerId>599</OfficerId>\r\n    <DADays>14</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>331807</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>420429</PropertyId>\r\n
         \     <ApplicationId>331807</ApplicationId>\r\n      <Line1>31 Bryant Street</Line1>\r\n
         \     <Line2>ROCKDALE NSW 2216                                              </Line2>\r\n
@@ -726,7 +264,7 @@ http_interactions:
         School)</ApplicationDetails>\r\n    <CreatedDate>2019-05-27T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-05-27T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>15345.000000</EstimatedCost>\r\n
         \   <Officer>Luke Boadle                                       </Officer>\r\n
-        \   <OfficerId>1010</OfficerId>\r\n    <DADays>11</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
+        \   <OfficerId>1010</OfficerId>\r\n    <DADays>14</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>331780</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>417446</PropertyId>\r\n
         \     <ApplicationId>331780</ApplicationId>\r\n      <Line1>50  - 52 Abercorn
         Street</Line1>\r\n      <Line2>BEXLEY NSW 2207                                              </Line2>\r\n
@@ -762,7 +300,7 @@ http_interactions:
         to Fridays</ApplicationDetails>\r\n    <CreatedDate>2019-05-27T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-05-27T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>8000.000000</EstimatedCost>\r\n
         \   <Officer>Christopher Lazaro                                </Officer>\r\n
-        \   <OfficerId>1020</OfficerId>\r\n    <DADays>11</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
+        \   <OfficerId>1020</OfficerId>\r\n    <DADays>14</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>331782</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>497685</PropertyId>\r\n
         \     <ApplicationId>331782</ApplicationId>\r\n      <Line1>694  - 698 Botany
         Road</Line1>\r\n      <Line2>MASCOT NSW 2020                                              </Line2>\r\n
@@ -793,7 +331,7 @@ http_interactions:
         \   <LodgementDate>2019-05-27T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>65000.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
         \   <Officer>Ayse Kiziltekin                                   </Officer>\r\n
-        \   <OfficerId>1348</OfficerId>\r\n    <DADays>11</DADays>\r\n    <GroupId>Routine
+        \   <OfficerId>1348</OfficerId>\r\n    <DADays>14</DADays>\r\n    <GroupId>Routine
         - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>331789</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>420696</PropertyId>\r\n
         \     <ApplicationId>331789</ApplicationId>\r\n      <Line1>16 Caledonian
@@ -826,7 +364,7 @@ http_interactions:
         \   <LodgementDate>2019-05-27T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>50000.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
         \   <Officer>Gary Choice                                       </Officer>\r\n
-        \   <OfficerId>1183</OfficerId>\r\n    <DADays>11</DADays>\r\n    <GroupId>Routine
+        \   <OfficerId>1183</OfficerId>\r\n    <DADays>14</DADays>\r\n    <GroupId>Routine
         - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>331793</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>428550</PropertyId>\r\n
         \     <ApplicationId>331793</ApplicationId>\r\n      <Line1>280 A  Kingsgrove
@@ -858,7 +396,7 @@ http_interactions:
         \   <EstimatedCost>39908.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
         - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <Officer>Tim
         Debeck                                        </Officer>\r\n    <OfficerId>1051</OfficerId>\r\n
-        \   <DADays>10</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>13</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>BC</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>331903</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>475145</PropertyId>\r\n      <ApplicationId>331903</ApplicationId>\r\n
         \     <Line1>18 Gibson Street</Line1>\r\n      <Line2>PAGEWOOD NSW 2035                                              </Line2>\r\n
@@ -885,7 +423,7 @@ http_interactions:
         \   <ApplicationDetails>Construction of an in-ground swimming pool</ApplicationDetails>\r\n
         \   <CreatedDate>2019-01-24T00:00:00+11:00</CreatedDate>\r\n    <LodgementDate>2019-05-28T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>32000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>134</DADays>\r\n
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>137</DADays>\r\n
         \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CC</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>331883</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>331883</ApplicationId>\r\n
         \     <DeterminationDate>2019-05-23T12:24:40+10:00</DeterminationDate>\r\n
@@ -934,7 +472,7 @@ http_interactions:
         \   <EstimatedCost>61000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
         - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <Officer>Sam
         Zafiropoulos                                  </Officer>\r\n    <OfficerId>1156</OfficerId>\r\n
-        \   <DADays>10</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>13</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>CC</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>331900</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>481192</PropertyId>\r\n      <ApplicationId>331900</ApplicationId>\r\n
         \     <Line1>185 O'Riordan Street</Line1>\r\n      <Line2>MASCOT NSW 2020
@@ -962,7 +500,7 @@ http_interactions:
         two storey building</ApplicationDetails>\r\n    <CreatedDate>2019-05-28T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-05-28T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>770000.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
-        \   <DADays>10</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>13</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>331852</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>425359</PropertyId>\r\n      <ApplicationId>331852</ApplicationId>\r\n
         \     <Line1>59 Gordon Street</Line1>\r\n      <Line2>BRIGHTON LE SANDS NSW
@@ -1000,7 +538,7 @@ http_interactions:
         \   <EstimatedCost>0.000000</EstimatedCost>\r\n    <OfficerTitle>Routine -
         Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <Officer>Ana
         Trifunovska                                   </Officer>\r\n    <OfficerId>1151</OfficerId>\r\n
-        \   <DADays>10</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>13</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>331897</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>475814</PropertyId>\r\n      <ApplicationId>331897</ApplicationId>\r\n
         \     <Line1>52 High Street</Line1>\r\n      <Line2>MASCOT NSW 2020                                              </Line2>\r\n
@@ -1032,7 +570,7 @@ http_interactions:
         \   <LodgementDate>2019-05-28T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>948938.390000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
         \   <Officer>Eric Alessi                                       </Officer>\r\n
-        \   <OfficerId>1016</OfficerId>\r\n    <DADays>10</DADays>\r\n    <GroupId>Routine
+        \   <OfficerId>1016</OfficerId>\r\n    <DADays>13</DADays>\r\n    <GroupId>Routine
         - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>331862</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>434702</PropertyId>\r\n
         \     <ApplicationId>331862</ApplicationId>\r\n      <Line1>44 Sellwood Street</Line1>\r\n
@@ -1065,7 +603,7 @@ http_interactions:
         \   <EstimatedCost>8000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
         - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <Officer>Janith
         De Silva                                   </Officer>\r\n    <OfficerId>1352</OfficerId>\r\n
-        \   <DADays>10</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>13</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>331871</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>440791</PropertyId>\r\n      <ApplicationId>331871</ApplicationId>\r\n
         \     <Line1>96  - 98 Wollongong Road</Line1>\r\n      <Line2>ARNCLIFFE NSW
@@ -1096,7 +634,7 @@ http_interactions:
         \   <ApplicationDetails>Boundary adjustment or rectification of an encroachment</ApplicationDetails>\r\n
         \   <CreatedDate>2019-03-27T00:00:00+11:00</CreatedDate>\r\n    <LodgementDate>2019-05-29T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>36.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>72</DADays>\r\n
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>75</DADays>\r\n
         \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>331927</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>331927</ApplicationId>\r\n
         \     <DeterminationDate>2019-04-16T00:00:00+10:00</DeterminationDate>\r\n
@@ -1143,7 +681,7 @@ http_interactions:
         unit 1</ApplicationDetails>\r\n    <CreatedDate>2019-03-25T00:00:00+11:00</CreatedDate>\r\n
         \   <LodgementDate>2019-05-29T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>15000.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
-        \   <DADays>74</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>77</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>331956</ApplicationIdS>\r\n
         \   <Determination>\r\n      <ApplicationId>331956</ApplicationId>\r\n      <DeterminationDate>2019-05-15T00:00:00+10:00</DeterminationDate>\r\n
         \     <EffectiveDate>2019-05-15T00:00:00+10:00</EffectiveDate>\r\n      <DeterminationType>Approved</DeterminationType>\r\n
@@ -1188,7 +726,7 @@ http_interactions:
         \   <CreatedDate>2019-05-29T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-05-29T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>320000.000000</EstimatedCost>\r\n    <Officer>Christopher
         Lazaro                                </Officer>\r\n    <OfficerId>1020</OfficerId>\r\n
-        \   <DADays>9</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
+        \   <DADays>12</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>331913</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>472279</PropertyId>\r\n
         \     <ApplicationId>331913</ApplicationId>\r\n      <Line1>3 Berry Street</Line1>\r\n
         \     <Line2>ROSEBERY NSW 2018                                              </Line2>\r\n
@@ -1220,7 +758,7 @@ http_interactions:
         floor level with associated car parking</ApplicationDetails>\r\n    <CreatedDate>2019-05-29T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-05-29T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>9157031.000000</EstimatedCost>\r\n
         \   <Officer>Petra Blumkaitis                                  </Officer>\r\n
-        \   <OfficerId>1169</OfficerId>\r\n    <DADays>9</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
+        \   <OfficerId>1169</OfficerId>\r\n    <DADays>12</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>331933</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>428404</PropertyId>\r\n
         \     <ApplicationId>331933</ApplicationId>\r\n      <Line1>7 Lindsay Street</Line1>\r\n
         \     <Line2>ROCKDALE NSW 2216                                              </Line2>\r\n
@@ -1265,7 +803,7 @@ http_interactions:
         \   <LodgementDate>2019-05-29T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>90000.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
         \   <Officer>Janith De Silva                                   </Officer>\r\n
-        \   <OfficerId>1352</OfficerId>\r\n    <DADays>9</DADays>\r\n    <GroupId>Routine
+        \   <OfficerId>1352</OfficerId>\r\n    <DADays>12</DADays>\r\n    <GroupId>Routine
         - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>331945</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>418237</PropertyId>\r\n
         \     <ApplicationId>331945</ApplicationId>\r\n      <Line1>19 Arthur Street</Line1>\r\n
@@ -1297,7 +835,7 @@ http_interactions:
         \   <CreatedDate>2019-05-29T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-05-29T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>117100.000000</EstimatedCost>\r\n    <Officer>Boris Kozuchowski
         \                                </Officer>\r\n    <OfficerId>1510</OfficerId>\r\n
-        \   <DADays>9</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
+        \   <DADays>12</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>331957</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>476144</PropertyId>\r\n
         \     <ApplicationId>331957</ApplicationId>\r\n      <Line1>35 Johnson Street</Line1>\r\n
         \     <Line2>MASCOT NSW 2020                                              </Line2>\r\n
@@ -1328,7 +866,7 @@ http_interactions:
         \   <EstimatedCost>12000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
         - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <Officer>Tim
         Debeck                                        </Officer>\r\n    <OfficerId>1051</OfficerId>\r\n
-        \   <DADays>8</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>11</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>BC</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>331980</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>472551</PropertyId>\r\n      <ApplicationId>331980</ApplicationId>\r\n
         \     <Line1>1236 Botany Road</Line1>\r\n      <Line2>BOTANY NSW 2019                                              </Line2>\r\n
@@ -1356,7 +894,7 @@ http_interactions:
         of rear deccks and stairs.</ApplicationDetails>\r\n    <CreatedDate>2018-11-16T00:00:00+11:00</CreatedDate>\r\n
         \   <LodgementDate>2019-05-30T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>24236.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
-        \   <DADays>203</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp;
+        \   <DADays>206</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp;
         10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332060</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>332060</ApplicationId>\r\n
         \     <DeterminationDate>2019-05-21T00:00:00+10:00</DeterminationDate>\r\n
@@ -1411,7 +949,7 @@ http_interactions:
         \   <EstimatedCost>0.000000</EstimatedCost>\r\n    <OfficerTitle>Complex -
         Building Class 2-9                      </OfficerTitle>\r\n    <Officer>Ivy
         Zhang                                         </Officer>\r\n    <OfficerId>1245</OfficerId>\r\n
-        \   <DADays>8</DADays>\r\n    <GroupId>Complex - Building Class 2-9</GroupId>\r\n
+        \   <DADays>11</DADays>\r\n    <GroupId>Complex - Building Class 2-9</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332008</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>472804</PropertyId>\r\n      <ApplicationId>332008</ApplicationId>\r\n
         \     <Line1>1379 Botany Road</Line1>\r\n      <Line2>BOTANY NSW 2019                                              </Line2>\r\n
@@ -1442,7 +980,7 @@ http_interactions:
         to stormwater</ApplicationDetails>\r\n    <CreatedDate>2019-05-30T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-05-30T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>0.000000</EstimatedCost>\r\n
         \   <Officer>Angela Lazaridis                                  </Officer>\r\n
-        \   <OfficerId>1199</OfficerId>\r\n    <DADays>8</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
+        \   <OfficerId>1199</OfficerId>\r\n    <DADays>11</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332067</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>477506</PropertyId>\r\n
         \     <ApplicationId>332067</ApplicationId>\r\n      <Line1>5 Myrtle Street</Line1>\r\n
         \     <Line2>BOTANY NSW 2019                                              </Line2>\r\n
@@ -1475,7 +1013,7 @@ http_interactions:
         \   <EstimatedCost>1540000.000000</EstimatedCost>\r\n    <OfficerTitle>Complex
         - Building Class 2-9                      </OfficerTitle>\r\n    <Officer>Nitin
         Thomas                                      </Officer>\r\n    <OfficerId>1058</OfficerId>\r\n
-        \   <DADays>8</DADays>\r\n    <GroupId>Complex - Building Class 2-9</GroupId>\r\n
+        \   <DADays>11</DADays>\r\n    <GroupId>Complex - Building Class 2-9</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>331978</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>437999</PropertyId>\r\n      <ApplicationId>331978</ApplicationId>\r\n
         \     <Line1>4 Warialda Street</Line1>\r\n      <Line2>KOGARAH NSW 2217                                              </Line2>\r\n
@@ -1505,7 +1043,7 @@ http_interactions:
         space in front setback of existing dwelling</ApplicationDetails>\r\n    <CreatedDate>2019-05-30T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-05-30T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>2500.000000</EstimatedCost>\r\n
         \   <Officer>Janith De Silva                                   </Officer>\r\n
-        \   <OfficerId>1352</OfficerId>\r\n    <DADays>8</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
+        \   <OfficerId>1352</OfficerId>\r\n    <DADays>11</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332002</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>418237</PropertyId>\r\n
         \     <ApplicationId>332002</ApplicationId>\r\n      <Line1>19 Arthur Street</Line1>\r\n
         \     <Line2>BEXLEY NSW 2207                                              </Line2>\r\n
@@ -1537,7 +1075,7 @@ http_interactions:
         \   <LodgementDate>2019-05-30T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>480000.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
         \   <Officer>Angela Lazaridis                                  </Officer>\r\n
-        \   <OfficerId>1199</OfficerId>\r\n    <DADays>8</DADays>\r\n    <GroupId>Routine
+        \   <OfficerId>1199</OfficerId>\r\n    <DADays>11</DADays>\r\n    <GroupId>Routine
         - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332005</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>425379</PropertyId>\r\n
         \     <ApplicationId>332005</ApplicationId>\r\n      <Line1>6 Gore Street</Line1>\r\n
@@ -1570,7 +1108,7 @@ http_interactions:
         \   <EstimatedCost>49500.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
         - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <Officer>Luke
         Boadle                                       </Officer>\r\n    <OfficerId>1010</OfficerId>\r\n
-        \   <DADays>8</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>11</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332068</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>429111</PropertyId>\r\n      <ApplicationId>332068</ApplicationId>\r\n
         \     <Line1>3 Lakeside Avenue</Line1>\r\n      <Line2>MONTEREY NSW 2217                                              </Line2>\r\n
@@ -1600,7 +1138,7 @@ http_interactions:
         dwelling with attached deck and carport at the rear of existing dwelling.</ApplicationDetails>\r\n
         \   <CreatedDate>2019-05-23T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-05-31T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>93850.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>15</DADays>\r\n
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>18</DADays>\r\n
         \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CC</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332105</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>332105</ApplicationId>\r\n
         \     <DeterminationDate>2019-05-24T00:00:00+10:00</DeterminationDate>\r\n
@@ -1640,7 +1178,7 @@ http_interactions:
         construction of a secondary dwelling to the rear and tandem carport.</ApplicationDetails>\r\n
         \   <CreatedDate>2019-04-15T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-05-31T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>150000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>53</DADays>\r\n
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>56</DADays>\r\n
         \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CC</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332107</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>332107</ApplicationId>\r\n
         \     <DeterminationDate>2019-05-30T00:00:00+10:00</DeterminationDate>\r\n
@@ -1692,7 +1230,7 @@ http_interactions:
         and Construction of two 2 storey semi detached dwellings.</ApplicationDetails>\r\n
         \   <CreatedDate>2019-02-11T00:00:00+11:00</CreatedDate>\r\n    <LodgementDate>2019-05-31T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>600000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>116</DADays>\r\n
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>119</DADays>\r\n
         \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CC</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332149</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>332149</ApplicationId>\r\n
         \     <DeterminationDate>2019-05-20T00:00:00+10:00</DeterminationDate>\r\n
@@ -1742,7 +1280,7 @@ http_interactions:
         \   <ApplicationDetails>Erection of a secondary dwelling</ApplicationDetails>\r\n
         \   <CreatedDate>2019-04-29T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-05-31T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>126500.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>39</DADays>\r\n
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>42</DADays>\r\n
         \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332075</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>332075</ApplicationId>\r\n
         \     <DeterminationDate>2019-05-23T00:00:00+10:00</DeterminationDate>\r\n
@@ -1786,7 +1324,7 @@ http_interactions:
         \   <ApplicationDetails>Internal Alterations to an existing Industrial Building.</ApplicationDetails>\r\n
         \   <CreatedDate>2019-05-12T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-05-31T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>95675.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>26</DADays>\r\n
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>29</DADays>\r\n
         \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332096</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>332096</ApplicationId>\r\n
         \     <DeterminationDate>2019-05-20T00:00:00+10:00</DeterminationDate>\r\n
@@ -1841,27 +1379,27 @@ http_interactions:
         \     <ApplicationIdS>332096</ApplicationIdS>\r\n    </Event>\r\n  </Application>\r\n
         \ <Application>\r\n    <ApplicationId>332145</ApplicationId>\r\n    <NatureOfApplication>Development
         Application                           </NatureOfApplication>\r\n    <NatureOfApplicationType>455</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>DA-2007/171/B</ReferenceNumber>\r\n    <Status>Application
-        Lodgement</Status>\r\n    <ReferenceNumberYear>2007</ReferenceNumberYear>\r\n
+        \   <ReferenceNumber>DA-2007/171/B</ReferenceNumber>\r\n    <Status>Under
+        Assessment</Status>\r\n    <ReferenceNumberYear>2007</ReferenceNumberYear>\r\n
         \   <ReferenceNumberNumber>171</ReferenceNumberNumber>\r\n    <Amendment>B</Amendment>\r\n
         \   <ApplicationDetails>Modification to remove driveway, on-site parking space
         and pergola structure from approved development</ApplicationDetails>\r\n    <CreatedDate>2019-05-31T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-05-31T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>0.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
         \   <Officer>Janith De Silva                                   </Officer>\r\n
-        \   <OfficerId>1352</OfficerId>\r\n    <DADays>7</DADays>\r\n    <GroupId>Routine
+        \   <OfficerId>1352</OfficerId>\r\n    <DADays>10</DADays>\r\n    <GroupId>Routine
         - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332145</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>438279</PropertyId>\r\n
         \     <ApplicationId>332145</ApplicationId>\r\n      <Line1>55 Willison Road</Line1>\r\n
         \     <Line2>CARLTON NSW 2218                                              </Line2>\r\n
         \     <FullLegalDescription>Lot A  DP 413127</FullLegalDescription>\r\n      <PropertyStatus>C</PropertyStatus>\r\n
         \     <ApplicationIdS>332145</ApplicationIdS>\r\n    </Address>\r\n    <Party>\r\n
-        \     <PartyId>418130</PartyId>\r\n      <ApplicationId>332145</ApplicationId>\r\n
+        \     <PartyId>533194</PartyId>\r\n      <ApplicationId>332145</ApplicationId>\r\n
         \     <PartyRole>Applicant                                         </PartyRole>\r\n
-        \     <Sequence>1</Sequence>\r\n      <FamilyName>SCHOFIELD</FamilyName>\r\n
-        \     <GivenName>ROSEMARIE ANNE</GivenName>\r\n      <Initial>RA   </Initial>\r\n
-        \     <NameType>P</NameType>\r\n      <FullName>Mrs Rosemarie Anne Schofield</FullName>\r\n
-        \     <Line1>55 Willison Rd\rCARLTON  NSW  2218</Line1>\r\n      <ApplicationIdS>332145</ApplicationIdS>\r\n
+        \     <Sequence>1</Sequence>\r\n      <FamilyName>FESTA</FamilyName>\r\n      <GivenName>PAUL
+        </GivenName>\r\n      <Initial>P    </Initial>\r\n      <NameType>P</NameType>\r\n
+        \     <FullName>Mr Paul Festa</FullName>\r\n      <Line1>61 Princess St\rBRIGHTON
+        LE SANDS  NSW  2216</Line1>\r\n      <ApplicationIdS>332145</ApplicationIdS>\r\n
         \   </Party>\r\n    <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>332145</ApplicationId>\r\n
         \     <PartyRole>Municipality                                      </PartyRole>\r\n
         \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
@@ -1874,15 +1412,15 @@ http_interactions:
         \     <ApplicationIdS>332145</ApplicationIdS>\r\n    </Assess>\r\n  </Application>\r\n
         \ <Application>\r\n    <ApplicationId>332143</ApplicationId>\r\n    <NatureOfApplication>Development
         Application                           </NatureOfApplication>\r\n    <NatureOfApplicationType>455</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>DA-2018/180/A</ReferenceNumber>\r\n    <Status>Application
-        Lodgement</Status>\r\n    <ReferenceNumberYear>2018</ReferenceNumberYear>\r\n
+        \   <ReferenceNumber>DA-2018/180/A</ReferenceNumber>\r\n    <Status>Under
+        Assessment</Status>\r\n    <ReferenceNumberYear>2018</ReferenceNumberYear>\r\n
         \   <ReferenceNumberNumber>180</ReferenceNumberNumber>\r\n    <Amendment>A</Amendment>\r\n
         \   <ApplicationDetails>Modification to reposition the secondary dwelling</ApplicationDetails>\r\n
         \   <CreatedDate>2019-05-31T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-05-31T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>0.000000</EstimatedCost>\r\n    <OfficerTitle>Routine -
         Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <Officer>Ana
         Trifunovska                                   </Officer>\r\n    <OfficerId>1151</OfficerId>\r\n
-        \   <DADays>7</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>10</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332143</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>432071</PropertyId>\r\n      <ApplicationId>332143</ApplicationId>\r\n
         \     <Line1>25 Oswell Street</Line1>\r\n      <Line2>ROCKDALE NSW 2216                                              </Line2>\r\n
@@ -1915,7 +1453,7 @@ http_interactions:
         \   <LodgementDate>2019-05-31T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>0.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
         \   <Officer>Ayse Kiziltekin                                   </Officer>\r\n
-        \   <OfficerId>1348</OfficerId>\r\n    <DADays>7</DADays>\r\n    <GroupId>Routine
+        \   <OfficerId>1348</OfficerId>\r\n    <DADays>10</DADays>\r\n    <GroupId>Routine
         - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332158</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>474077</PropertyId>\r\n
         \     <ApplicationId>332158</ApplicationId>\r\n      <Line1>3 Dent Street</Line1>\r\n
@@ -1948,7 +1486,7 @@ http_interactions:
         \   <CreatedDate>2019-05-31T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-05-31T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>450000.000000</EstimatedCost>\r\n    <Officer>Boris Kozuchowski
         \                                </Officer>\r\n    <OfficerId>1510</OfficerId>\r\n
-        \   <DADays>7</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
+        \   <DADays>10</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332081</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>478013</PropertyId>\r\n
         \     <ApplicationId>332081</ApplicationId>\r\n      <Line1>2 Queen Street</Line1>\r\n
         \     <Line2>BOTANY NSW 2019                                              </Line2>\r\n
@@ -1979,7 +1517,7 @@ http_interactions:
         \   <LodgementDate>2019-06-03T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>29500.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
         \   <Officer>Louie Apostolou                                   </Officer>\r\n
-        \   <OfficerId>617</OfficerId>\r\n    <DADays>4</DADays>\r\n    <GroupId>Routine
+        \   <OfficerId>617</OfficerId>\r\n    <DADays>7</DADays>\r\n    <GroupId>Routine
         - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>BC</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332242</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>435880</PropertyId>\r\n
         \     <ApplicationId>332242</ApplicationId>\r\n      <Line1>39 The Glen Road</Line1>\r\n
@@ -2008,7 +1546,7 @@ http_interactions:
         loading dock.</ApplicationDetails>\r\n    <CreatedDate>2019-04-01T00:00:00+11:00</CreatedDate>\r\n
         \   <LodgementDate>2019-06-03T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>110000.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
-        \   <DADays>67</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>70</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>CC</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332210</ApplicationIdS>\r\n
         \   <Determination>\r\n      <ApplicationId>332210</ApplicationId>\r\n      <DeterminationDate>2019-05-07T00:00:00+10:00</DeterminationDate>\r\n
         \     <EffectiveDate>2019-05-07T00:00:00+10:00</EffectiveDate>\r\n      <DeterminationType>Approved</DeterminationType>\r\n
@@ -2052,7 +1590,7 @@ http_interactions:
         \   <ApplicationDetails>Office Fitout.</ApplicationDetails>\r\n    <CreatedDate>2019-04-11T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-06-03T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>15000.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
-        \   <DADays>57</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>60</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332198</ApplicationIdS>\r\n
         \   <Determination>\r\n      <ApplicationId>332198</ApplicationId>\r\n      <DeterminationDate>2019-05-27T00:00:00+10:00</DeterminationDate>\r\n
         \     <EffectiveDate>2019-05-27T00:00:00+10:00</EffectiveDate>\r\n      <DeterminationType>Approved</DeterminationType>\r\n
@@ -2098,7 +1636,7 @@ http_interactions:
         Fitout of Shop.</ApplicationDetails>\r\n    <CreatedDate>2019-05-20T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-06-03T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>100000.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
-        \   <DADays>18</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>21</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332206</ApplicationIdS>\r\n
         \   <Determination>\r\n      <ApplicationId>332206</ApplicationId>\r\n      <DeterminationDate>2019-05-24T00:00:00+10:00</DeterminationDate>\r\n
         \     <EffectiveDate>2019-05-24T00:00:00+10:00</EffectiveDate>\r\n      <DeterminationType>Approved</DeterminationType>\r\n
@@ -3609,7 +3147,7 @@ http_interactions:
         \   <EstimatedCost>15000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
         - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <Officer>Sam
         Zafiropoulos                                  </Officer>\r\n    <OfficerId>1156</OfficerId>\r\n
-        \   <DADays>4</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>7</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332216</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>479982</PropertyId>\r\n      <ApplicationId>332216</ApplicationId>\r\n
         \     <Line1>6 Woodstock Street</Line1>\r\n      <Line2>BOTANY NSW 2019                                              </Line2>\r\n
@@ -3636,7 +3174,7 @@ http_interactions:
         \   <ApplicationDetails>Fitout of tenancy 'Snap Fitness'</ApplicationDetails>\r\n
         \   <CreatedDate>2018-10-22T00:00:00+11:00</CreatedDate>\r\n    <LodgementDate>2019-06-03T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>150000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>228</DADays>\r\n
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>231</DADays>\r\n
         \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332265</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>332265</ApplicationId>\r\n
         \     <DeterminationDate>2019-01-10T00:00:00+11:00</DeterminationDate>\r\n
@@ -3686,7 +3224,7 @@ http_interactions:
         \   <LodgementDate>2019-06-03T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>0.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
         \   <Officer>Andrew Ison                                       </Officer>\r\n
-        \   <OfficerId>1141</OfficerId>\r\n    <DADays>4</DADays>\r\n    <GroupId>Routine
+        \   <OfficerId>1141</OfficerId>\r\n    <DADays>7</DADays>\r\n    <GroupId>Routine
         - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332254</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>473453</PropertyId>\r\n
         \     <ApplicationId>332254</ApplicationId>\r\n      <Line1>13 A  Church Avenue</Line1>\r\n
@@ -3718,7 +3256,7 @@ http_interactions:
         \   <LodgementDate>2019-06-03T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>1000.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
         \   <Officer>Christopher Lazaro                                </Officer>\r\n
-        \   <OfficerId>1020</OfficerId>\r\n    <DADays>4</DADays>\r\n    <GroupId>Routine
+        \   <OfficerId>1020</OfficerId>\r\n    <DADays>7</DADays>\r\n    <GroupId>Routine
         - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332180</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>455282</PropertyId>\r\n
         \     <ApplicationId>332180</ApplicationId>\r\n      <Line1>3 / 105 West Botany
@@ -3750,7 +3288,7 @@ http_interactions:
         and Sunday</ApplicationDetails>\r\n    <CreatedDate>2019-06-03T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-06-03T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>0.000000</EstimatedCost>\r\n
         \   <Officer>Adam Iskander                                     </Officer>\r\n
-        \   <OfficerId>772</OfficerId>\r\n    <DADays>4</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
+        \   <OfficerId>772</OfficerId>\r\n    <DADays>7</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332215</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>469404</PropertyId>\r\n
         \     <ApplicationId>332215</ApplicationId>\r\n      <Line1>1 / 2 A  Willis
         Street</Line1>\r\n      <Line2>WOLLI CREEK NSW 2205                                              </Line2>\r\n
@@ -3780,7 +3318,7 @@ http_interactions:
         of the ground floor as a Cafe</ApplicationDetails>\r\n    <CreatedDate>2019-06-03T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-06-03T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>0.000000</EstimatedCost>\r\n
         \   <Officer>Eric Alessi                                       </Officer>\r\n
-        \   <OfficerId>1016</OfficerId>\r\n    <DADays>4</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
+        \   <OfficerId>1016</OfficerId>\r\n    <DADays>7</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332225</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>440717</PropertyId>\r\n
         \     <ApplicationId>332225</ApplicationId>\r\n      <Line1>301 The Grand
         Parade</Line1>\r\n      <Line2>SANS SOUCI NSW 2219                                              </Line2>\r\n
@@ -3804,15 +3342,14 @@ http_interactions:
         \     <ApplicationIdS>332225</ApplicationIdS>\r\n    </Assess>\r\n  </Application>\r\n
         \ <Application>\r\n    <ApplicationId>332227</ApplicationId>\r\n    <NatureOfApplication>Development
         Application                           </NatureOfApplication>\r\n    <NatureOfApplicationType>455</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>DA-2019/188</ReferenceNumber>\r\n    <Status>Application
-        Lodgement</Status>\r\n    <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n
-        \   <ReferenceNumberNumber>188</ReferenceNumberNumber>\r\n    <ApplicationDetails>Alterations
-        and addition of rear deck and stairs to existing semi-detached dwelling, excavation
-        of rear yard and 1.8 metre high front masonry fence</ApplicationDetails>\r\n
-        \   <CreatedDate>2019-06-03T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-06-03T00:00:00+10:00</LodgementDate>\r\n
-        \   <EstimatedCost>44000.000000</EstimatedCost>\r\n    <Officer>Luke Boadle
-        \                                      </Officer>\r\n    <OfficerId>1010</OfficerId>\r\n
-        \   <DADays>4</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
+        \   <ReferenceNumber>DA-2019/188</ReferenceNumber>\r\n    <Status>Under Assessment</Status>\r\n
+        \   <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n    <ReferenceNumberNumber>188</ReferenceNumberNumber>\r\n
+        \   <ApplicationDetails>Alterations and addition of rear deck and stairs to
+        existing semi-detached dwelling, excavation of rear yard and 1.8 metre high
+        front masonry fence</ApplicationDetails>\r\n    <CreatedDate>2019-06-03T00:00:00+10:00</CreatedDate>\r\n
+        \   <LodgementDate>2019-06-03T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>44000.000000</EstimatedCost>\r\n
+        \   <Officer>Luke Boadle                                       </Officer>\r\n
+        \   <OfficerId>1010</OfficerId>\r\n    <DADays>7</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332227</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>473148</PropertyId>\r\n
         \     <ApplicationId>332227</ApplicationId>\r\n      <Line1>210 Bunnerong
         Road</Line1>\r\n      <Line2>EASTGARDENS NSW 2036                                              </Line2>\r\n
@@ -3844,7 +3381,7 @@ http_interactions:
         \   <EstimatedCost>12000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
         - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <Officer>Boris
         Kozuchowski                                 </Officer>\r\n    <OfficerId>1510</OfficerId>\r\n
-        \   <DADays>4</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>7</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332248</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>440005</PropertyId>\r\n      <ApplicationId>332248</ApplicationId>\r\n
         \     <Line1>36 Percival Street</Line1>\r\n      <Line2>BEXLEY NSW 2207                                              </Line2>\r\n
@@ -3868,15 +3405,14 @@ http_interactions:
         \     <ApplicationIdS>332248</ApplicationIdS>\r\n    </Assess>\r\n  </Application>\r\n
         \ <Application>\r\n    <ApplicationId>332228</ApplicationId>\r\n    <NatureOfApplication>Development
         Application                           </NatureOfApplication>\r\n    <NatureOfApplicationType>455</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>DA-2019/48/A</ReferenceNumber>\r\n    <Status>Application
-        Lodgement</Status>\r\n    <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n
-        \   <ReferenceNumberNumber>48</ReferenceNumberNumber>\r\n    <Amendment>A</Amendment>\r\n
-        \   <ApplicationDetails>Modification to Condition 9 relating to stormwater
-        design</ApplicationDetails>\r\n    <CreatedDate>2019-06-03T00:00:00+10:00</CreatedDate>\r\n
+        \   <ReferenceNumber>DA-2019/48/A</ReferenceNumber>\r\n    <Status>Under Assessment</Status>\r\n
+        \   <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n    <ReferenceNumberNumber>48</ReferenceNumberNumber>\r\n
+        \   <Amendment>A</Amendment>\r\n    <ApplicationDetails>Modification to Condition
+        9 relating to stormwater design</ApplicationDetails>\r\n    <CreatedDate>2019-06-03T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-06-03T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>0.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
         \   <Officer>Gary Choice                                       </Officer>\r\n
-        \   <OfficerId>1183</OfficerId>\r\n    <DADays>4</DADays>\r\n    <GroupId>Routine
+        \   <OfficerId>1183</OfficerId>\r\n    <DADays>7</DADays>\r\n    <GroupId>Routine
         - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332228</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>475853</PropertyId>\r\n
         \     <ApplicationId>332228</ApplicationId>\r\n      <Line1>4 Holloway Street</Line1>\r\n
@@ -3908,7 +3444,7 @@ http_interactions:
         \   <LodgementDate>2019-06-04T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>0.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
         \   <Officer>Tim Debeck                                        </Officer>\r\n
-        \   <OfficerId>1051</OfficerId>\r\n    <DADays>3</DADays>\r\n    <GroupId>Routine
+        \   <OfficerId>1051</OfficerId>\r\n    <DADays>6</DADays>\r\n    <GroupId>Routine
         - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>BC</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332320</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>466846</PropertyId>\r\n
         \     <ApplicationId>332320</ApplicationId>\r\n      <Line1>1 / 10 Reede Street</Line1>\r\n
@@ -3937,7 +3473,7 @@ http_interactions:
         NSW 2217 - Stage 2 - remainder of building works</ApplicationDetails>\r\n
         \   <CreatedDate>2019-04-04T00:00:00+11:00</CreatedDate>\r\n    <LodgementDate>2019-06-04T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>2388892.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>64</DADays>\r\n
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>67</DADays>\r\n
         \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CC</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332312</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>332312</ApplicationId>\r\n
         \     <DeterminationDate>2019-04-30T00:00:00+10:00</DeterminationDate>\r\n
@@ -3993,7 +3529,7 @@ http_interactions:
         \   <ApplicationDetails>Alterations and additions to existing dwelling</ApplicationDetails>\r\n
         \   <CreatedDate>2018-09-25T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-06-04T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>291500.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>255</DADays>\r\n
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>258</DADays>\r\n
         \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CC</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332277</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>332277</ApplicationId>\r\n
         \     <DeterminationDate>2019-05-30T00:00:00+10:00</DeterminationDate>\r\n
@@ -4038,7 +3574,7 @@ http_interactions:
         Development Certificate - increase the length of the first floor bedroom</ApplicationDetails>\r\n
         \   <CreatedDate>2019-05-10T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-06-04T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>350000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>28</DADays>\r\n
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>31</DADays>\r\n
         \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332310</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>332310</ApplicationId>\r\n
         \     <DeterminationDate>2019-05-30T00:00:00+10:00</DeterminationDate>\r\n
@@ -4084,7 +3620,7 @@ http_interactions:
         walls</ApplicationDetails>\r\n    <CreatedDate>2019-05-17T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-06-04T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>12500.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
-        \   <DADays>21</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>24</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332275</ApplicationIdS>\r\n
         \   <Determination>\r\n      <ApplicationId>332275</ApplicationId>\r\n      <DeterminationDate>2019-05-28T00:00:00+10:00</DeterminationDate>\r\n
         \     <EffectiveDate>2019-05-28T00:00:00+10:00</EffectiveDate>\r\n      <DeterminationType>Approved</DeterminationType>\r\n
@@ -4128,7 +3664,7 @@ http_interactions:
         \   <ApplicationDetails>Construction of a new two (2) storey dwelling</ApplicationDetails>\r\n
         \   <CreatedDate>2019-04-18T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-06-04T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>450000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>50</DADays>\r\n
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>53</DADays>\r\n
         \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332284</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>332284</ApplicationId>\r\n
         \     <DeterminationDate>2019-05-30T00:00:00+10:00</DeterminationDate>\r\n
@@ -4175,7 +3711,7 @@ http_interactions:
         \   <LodgementDate>2019-06-05T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>60000.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
         \   <Officer>Ayse Kiziltekin                                   </Officer>\r\n
-        \   <OfficerId>1348</OfficerId>\r\n    <DADays>2</DADays>\r\n    <GroupId>Routine
+        \   <OfficerId>1348</OfficerId>\r\n    <DADays>5</DADays>\r\n    <GroupId>Routine
         - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332360</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>421319</PropertyId>\r\n
         \     <ApplicationId>332360</ApplicationId>\r\n      <Line1>106 Clareville
@@ -4208,7 +3744,7 @@ http_interactions:
         \   <LodgementDate>2019-06-05T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>464000.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
         \   <Officer>Petra Blumkaitis                                  </Officer>\r\n
-        \   <OfficerId>1169</OfficerId>\r\n    <DADays>2</DADays>\r\n    <GroupId>Routine
+        \   <OfficerId>1169</OfficerId>\r\n    <DADays>5</DADays>\r\n    <GroupId>Routine
         - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332376</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>479864</PropertyId>\r\n
         \     <ApplicationId>332376</ApplicationId>\r\n      <Line1>32 William Street</Line1>\r\n
@@ -4247,7 +3783,7 @@ http_interactions:
         \   <EstimatedCost>45000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
         - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <Officer>Sam
         Zafiropoulos                                  </Officer>\r\n    <OfficerId>1156</OfficerId>\r\n
-        \   <DADays>1</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>4</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>CC</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332384</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>427200</PropertyId>\r\n      <ApplicationId>332384</ApplicationId>\r\n
         \     <Line1>25 John Street</Line1>\r\n      <Line2>BARDWELL VALLEY NSW 2207
@@ -4277,7 +3813,7 @@ http_interactions:
         \   <EstimatedCost>1391968.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
         - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <Officer>Tim
         Debeck                                        </Officer>\r\n    <OfficerId>1051</OfficerId>\r\n
-        \   <DADays>1</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>4</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332409</ApplicationIdS>\r\n
         \   <Determination>\r\n      <ApplicationId>332409</ApplicationId>\r\n      <DeterminationDate>2019-06-07T08:59:52.03+10:00</DeterminationDate>\r\n
         \     <EffectiveDate>2019-06-07T00:00:00+10:00</EffectiveDate>\r\n      <DeterminationType>Void</DeterminationType>\r\n
@@ -4321,7 +3857,7 @@ http_interactions:
         DA2014/96.</ApplicationDetails>\r\n    <CreatedDate>2019-06-06T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-06-06T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>0.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Complex - Building Class 2-9                      </OfficerTitle>\r\n
-        \   <DADays>1</DADays>\r\n    <GroupId>Complex - Building Class 2-9</GroupId>\r\n
+        \   <DADays>4</DADays>\r\n    <GroupId>Complex - Building Class 2-9</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332419</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>492144</PropertyId>\r\n      <ApplicationId>332419</ApplicationId>\r\n
         \     <Line1>130  - 150 Bunnerong Road</Line1>\r\n      <Line2>EASTGARDENS
@@ -4384,7 +3920,7 @@ http_interactions:
         to timber and setback increased.</ApplicationDetails>\r\n    <CreatedDate>2019-06-06T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-06-06T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>0.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
-        \   <DADays>1</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>4</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332390</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>478963</PropertyId>\r\n      <ApplicationId>332390</ApplicationId>\r\n
         \     <Line1>22 Tenterden Road</Line1>\r\n      <Line2>BOTANY NSW 2019                                              </Line2>\r\n
@@ -4412,7 +3948,7 @@ http_interactions:
         of a new two storey residential dwelling.</ApplicationDetails>\r\n    <CreatedDate>2019-06-06T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-06-06T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>916889.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
-        \   <DADays>1</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <DADays>4</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
         \   <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332403</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>432100</PropertyId>\r\n      <ApplicationId>332403</ApplicationId>\r\n
         \     <Line1>9 Owen Avenue</Line1>\r\n      <Line2>KYEEMAGH NSW 2216                                              </Line2>\r\n
@@ -4440,7 +3976,7 @@ http_interactions:
         \   <ReferenceNumberNumber>193</ReferenceNumberNumber>\r\n    <ApplicationDetails>Installation
         of inground pool including associated filtration and fencing.</ApplicationDetails>\r\n
         \   <CreatedDate>2019-06-06T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-06-06T00:00:00+10:00</LodgementDate>\r\n
-        \   <EstimatedCost>54500.000000</EstimatedCost>\r\n    <DADays>1</DADays>\r\n
+        \   <EstimatedCost>54500.000000</EstimatedCost>\r\n    <DADays>4</DADays>\r\n
         \   <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332420</ApplicationIdS>\r\n
         \   <Address>\r\n      <PropertyId>473416</PropertyId>\r\n      <ApplicationId>332420</ApplicationId>\r\n
         \     <Line1>26 Chelmsford Avenue</Line1>\r\n      <Line2>BOTANY NSW 2019
@@ -4464,16 +4000,18 @@ http_interactions:
         \     <ApplicationIdS>332420</ApplicationIdS>\r\n    </Event>\r\n  </Application>\r\n
         \ <Application>\r\n    <ApplicationId>332515</ApplicationId>\r\n    <NatureOfApplication>Building
         Certificate                              </NatureOfApplication>\r\n    <NatureOfApplicationType>483</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>BC-2019/38</ReferenceNumber>\r\n    <Status>Application
-        Lodgement</Status>\r\n    <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n
-        \   <ReferenceNumberNumber>38</ReferenceNumberNumber>\r\n    <ApplicationDetails>Construction
-        of rear stairs and courtyard area</ApplicationDetails>\r\n    <CreatedDate>2019-06-07T00:00:00+10:00</CreatedDate>\r\n
+        \   <ReferenceNumber>BC-2019/38</ReferenceNumber>\r\n    <Status>Under Assessment</Status>\r\n
+        \   <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n    <ReferenceNumberNumber>38</ReferenceNumberNumber>\r\n
+        \   <ApplicationDetails>Unapproved Development - construction of rear stairs
+        and courtyard area</ApplicationDetails>\r\n    <CreatedDate>2019-06-07T00:00:00+10:00</CreatedDate>\r\n
         \   <LodgementDate>2019-06-07T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>0.000000</EstimatedCost>\r\n
         \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
-        \   <DADays>0</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
-        \   <NatureOfApplicationTypeAlpha>BC</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332515</ApplicationIdS>\r\n
-        \   <Address>\r\n      <PropertyId>472459</PropertyId>\r\n      <ApplicationId>332515</ApplicationId>\r\n
-        \     <Line1>948 Botany Road</Line1>\r\n      <Line2>MASCOT NSW 2020                                              </Line2>\r\n
+        \   <Officer>Tim Debeck                                        </Officer>\r\n
+        \   <OfficerId>1051</OfficerId>\r\n    <DADays>3</DADays>\r\n    <GroupId>Routine
+        - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>BC</NatureOfApplicationTypeAlpha>\r\n
+        \   <ApplicationIdS>332515</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>472459</PropertyId>\r\n
+        \     <ApplicationId>332515</ApplicationId>\r\n      <Line1>948 Botany Road</Line1>\r\n
+        \     <Line2>MASCOT NSW 2020                                              </Line2>\r\n
         \     <FullLegalDescription>Lot 3  DP 531152</FullLegalDescription>\r\n      <PropertyStatus>C</PropertyStatus>\r\n
         \     <ApplicationIdS>332515</ApplicationIdS>\r\n    </Address>\r\n    <Party>\r\n
         \     <PartyId>732998</PartyId>\r\n      <ApplicationId>332515</ApplicationId>\r\n
@@ -4497,7 +4035,7 @@ http_interactions:
         \   <ApplicationDetails>Digital convesion of existing static advertising Billboards.</ApplicationDetails>\r\n
         \   <CreatedDate>2019-05-17T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-06-07T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>1800000.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>21</DADays>\r\n
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>24</DADays>\r\n
         \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CC</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332434</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>332434</ApplicationId>\r\n
         \     <DeterminationDate>2019-05-22T00:00:00+10:00</DeterminationDate>\r\n
@@ -4547,7 +4085,7 @@ http_interactions:
         and units 21 and 22, Ground floor Building B as Clouded on approved plans.</ApplicationDetails>\r\n
         \   <CreatedDate>2019-02-21T00:00:00+11:00</CreatedDate>\r\n    <LodgementDate>2019-06-07T00:00:00+10:00</LodgementDate>\r\n
         \   <EstimatedCost>108463758.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
-        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>106</DADays>\r\n
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>109</DADays>\r\n
         \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CC</NatureOfApplicationTypeAlpha>\r\n
         \   <ApplicationIdS>332473</ApplicationIdS>\r\n    <Determination>\r\n      <ApplicationId>332473</ApplicationId>\r\n
         \     <DeterminationDate>2019-05-14T00:00:00+10:00</DeterminationDate>\r\n
@@ -4588,33 +4126,33 @@ http_interactions:
         \     <ApplicationIdS>332473</ApplicationIdS>\r\n    </Event>\r\n  </Application>\r\n
         \ <Application>\r\n    <ApplicationId>332426</ApplicationId>\r\n    <NatureOfApplication>Complying
         Development                             </NatureOfApplication>\r\n    <NatureOfApplicationType>458</NatureOfApplicationType>\r\n
-        \   <ReferenceNumber>CD-2018/11/A</ReferenceNumber>\r\n    <Status>Application
-        Lodgement</Status>\r\n    <ReferenceNumberYear>2018</ReferenceNumberYear>\r\n
-        \   <ReferenceNumberNumber>11</ReferenceNumberNumber>\r\n    <Amendment>A</Amendment>\r\n
-        \   <ApplicationDetails>Amended Complying Development Application - demolition
-        of two storey building and construction of three (3) x two (2) storey residences
-        and three (3) x first floor studios</ApplicationDetails>\r\n    <CreatedDate>2019-06-07T00:00:00+10:00</CreatedDate>\r\n
-        \   <LodgementDate>2019-06-07T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>1391968.000000</EstimatedCost>\r\n
-        \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
-        \   <Officer>Robert Kozarovski                                 </Officer>\r\n
-        \   <OfficerId>139</OfficerId>\r\n    <DADays>0</DADays>\r\n    <GroupId>Routine
-        - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n
-        \   <ApplicationIdS>332426</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>432923</PropertyId>\r\n
-        \     <ApplicationId>332426</ApplicationId>\r\n      <Line1>81 Staples Street</Line1>\r\n
-        \     <Line2>KINGSGROVE NSW 2208                                              </Line2>\r\n
-        \     <FullLegalDescription>Lot 50  Sec2  DP 2265</FullLegalDescription>\r\n
-        \     <PropertyStatus>C</PropertyStatus>\r\n      <ApplicationIdS>332426</ApplicationIdS>\r\n
-        \   </Address>\r\n    <Address>\r\n      <PropertyId>432923</PropertyId>\r\n
-        \     <ApplicationId>332426</ApplicationId>\r\n      <Line1>81 Staples Street</Line1>\r\n
-        \     <Line2>KINGSGROVE NSW 2208                                              </Line2>\r\n
-        \     <FullLegalDescription>Lot 51  Sec2  DP 2265</FullLegalDescription>\r\n
-        \     <PropertyStatus>C</PropertyStatus>\r\n      <ApplicationIdS>332426</ApplicationIdS>\r\n
-        \   </Address>\r\n    <Address>\r\n      <PropertyId>432923</PropertyId>\r\n
-        \     <ApplicationId>332426</ApplicationId>\r\n      <Line1>81 Staples Street</Line1>\r\n
-        \     <Line2>KINGSGROVE NSW 2208                                              </Line2>\r\n
-        \     <FullLegalDescription>Lot 52  Sec2  DP 2265</FullLegalDescription>\r\n
-        \     <PropertyStatus>C</PropertyStatus>\r\n      <ApplicationIdS>332426</ApplicationIdS>\r\n
-        \   </Address>\r\n    <Party>\r\n      <PartyId>573759</PartyId>\r\n      <ApplicationId>332426</ApplicationId>\r\n
+        \   <ReferenceNumber>CD-2018/11/A</ReferenceNumber>\r\n    <Status>Under Assessment</Status>\r\n
+        \   <ReferenceNumberYear>2018</ReferenceNumberYear>\r\n    <ReferenceNumberNumber>11</ReferenceNumberNumber>\r\n
+        \   <Amendment>A</Amendment>\r\n    <ApplicationDetails>Amended Complying
+        Development Application - demolition of two storey building and construction
+        of three (3) x two (2) storey residences and three (3) x first floor studios</ApplicationDetails>\r\n
+        \   <CreatedDate>2019-06-07T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-06-07T00:00:00+10:00</LodgementDate>\r\n
+        \   <EstimatedCost>1391968.000000</EstimatedCost>\r\n    <OfficerTitle>Routine
+        - Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <Officer>Robert
+        Kozarovski                                 </Officer>\r\n    <OfficerId>139</OfficerId>\r\n
+        \   <DADays>3</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <NatureOfApplicationTypeAlpha>CD</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332426</ApplicationIdS>\r\n
+        \   <Address>\r\n      <PropertyId>432923</PropertyId>\r\n      <ApplicationId>332426</ApplicationId>\r\n
+        \     <Line1>81 Staples Street</Line1>\r\n      <Line2>KINGSGROVE NSW 2208
+        \                                             </Line2>\r\n      <FullLegalDescription>Lot
+        50  Sec2  DP 2265</FullLegalDescription>\r\n      <PropertyStatus>C</PropertyStatus>\r\n
+        \     <ApplicationIdS>332426</ApplicationIdS>\r\n    </Address>\r\n    <Address>\r\n
+        \     <PropertyId>432923</PropertyId>\r\n      <ApplicationId>332426</ApplicationId>\r\n
+        \     <Line1>81 Staples Street</Line1>\r\n      <Line2>KINGSGROVE NSW 2208
+        \                                             </Line2>\r\n      <FullLegalDescription>Lot
+        51  Sec2  DP 2265</FullLegalDescription>\r\n      <PropertyStatus>C</PropertyStatus>\r\n
+        \     <ApplicationIdS>332426</ApplicationIdS>\r\n    </Address>\r\n    <Address>\r\n
+        \     <PropertyId>432923</PropertyId>\r\n      <ApplicationId>332426</ApplicationId>\r\n
+        \     <Line1>81 Staples Street</Line1>\r\n      <Line2>KINGSGROVE NSW 2208
+        \                                             </Line2>\r\n      <FullLegalDescription>Lot
+        52  Sec2  DP 2265</FullLegalDescription>\r\n      <PropertyStatus>C</PropertyStatus>\r\n
+        \     <ApplicationIdS>332426</ApplicationIdS>\r\n    </Address>\r\n    <Party>\r\n
+        \     <PartyId>573759</PartyId>\r\n      <ApplicationId>332426</ApplicationId>\r\n
         \     <PartyRole>Applicant                                         </PartyRole>\r\n
         \     <Sequence>1</Sequence>\r\n      <FamilyName>CMT ARCHITECTS AUST PTY
         LTD</FamilyName>\r\n      <GivenName xml:space=\"preserve\"> </GivenName>\r\n
@@ -4628,7 +4166,93 @@ http_interactions:
         \     <FullName>Bayside Council                                   </FullName>\r\n
         \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>332426</ApplicationIdS>\r\n
         \   </Party>\r\n    <Event>\r\n      <ApplicationId>332426</ApplicationId>\r\n
-        \     <ApplicationIdS>332426</ApplicationIdS>\r\n    </Event>\r\n  </Application>\r\n</NewDataSet>"
+        \     <ApplicationIdS>332426</ApplicationIdS>\r\n    </Event>\r\n  </Application>\r\n
+        \ <Application>\r\n    <ApplicationId>332543</ApplicationId>\r\n    <NatureOfApplication>Development
+        Application                           </NatureOfApplication>\r\n    <NatureOfApplicationType>455</NatureOfApplicationType>\r\n
+        \   <ReferenceNumber>DA-2017/262/B</ReferenceNumber>\r\n    <Status>Application
+        Lodgement</Status>\r\n    <ReferenceNumberYear>2017</ReferenceNumberYear>\r\n
+        \   <ReferenceNumberNumber>262</ReferenceNumberNumber>\r\n    <Amendment>B</Amendment>\r\n
+        \   <ApplicationDetails>removal of approved cabana</ApplicationDetails>\r\n
+        \   <CreatedDate>2019-06-07T00:00:00+10:00</CreatedDate>\r\n    <LodgementDate>2019-06-07T00:00:00+10:00</LodgementDate>\r\n
+        \   <EstimatedCost>0.000000</EstimatedCost>\r\n    <OfficerTitle>Routine -
+        Building Class 1 &amp; 10                   </OfficerTitle>\r\n    <DADays>3</DADays>\r\n
+        \   <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
+        \   <ApplicationIdS>332543</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>422711</PropertyId>\r\n
+        \     <ApplicationId>332543</ApplicationId>\r\n      <Line1>45 Eddystone Road</Line1>\r\n
+        \     <Line2>BEXLEY NSW 2207                                              </Line2>\r\n
+        \     <FullLegalDescription>Lot 15  SecA  DP 4580</FullLegalDescription>\r\n
+        \     <PropertyStatus>C</PropertyStatus>\r\n      <ApplicationIdS>332543</ApplicationIdS>\r\n
+        \   </Address>\r\n    <Party>\r\n      <PartyId>612968</PartyId>\r\n      <ApplicationId>332543</ApplicationId>\r\n
+        \     <PartyRole>Applicant                                         </PartyRole>\r\n
+        \     <Sequence>1</Sequence>\r\n      <FamilyName>SPACE 06181 PTY LTD</FamilyName>\r\n
+        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
+        \     <FullName>Space 0.618:1 Pty Ltd                             </FullName>\r\n
+        \     <Line1>53 Station St\rARNCLIFFE  NSW  2205</Line1>\r\n      <ApplicationIdS>332543</ApplicationIdS>\r\n
+        \   </Party>\r\n    <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>332543</ApplicationId>\r\n
+        \     <PartyRole>Municipality                                      </PartyRole>\r\n
+        \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
+        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
+        \     <FullName>Bayside Council                                   </FullName>\r\n
+        \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>332543</ApplicationIdS>\r\n
+        \   </Party>\r\n    <Event>\r\n      <ApplicationId>332543</ApplicationId>\r\n
+        \     <ApplicationIdS>332543</ApplicationIdS>\r\n    </Event>\r\n  </Application>\r\n
+        \ <Application>\r\n    <ApplicationId>332525</ApplicationId>\r\n    <NatureOfApplication>Development
+        Application                           </NatureOfApplication>\r\n    <NatureOfApplicationType>455</NatureOfApplicationType>\r\n
+        \   <ReferenceNumber>DA-2019/194</ReferenceNumber>\r\n    <Status>Application
+        Lodgement</Status>\r\n    <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n
+        \   <ReferenceNumberNumber>194</ReferenceNumberNumber>\r\n    <ApplicationDetails>Change
+        of use to an indoor recreation facility</ApplicationDetails>\r\n    <CreatedDate>2019-06-07T00:00:00+10:00</CreatedDate>\r\n
+        \   <LodgementDate>2019-06-07T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>0.000000</EstimatedCost>\r\n
+        \   <OfficerTitle>Routine - Building Class 1 &amp; 10                   </OfficerTitle>\r\n
+        \   <DADays>3</DADays>\r\n    <GroupId>Routine - Building Class 1 &amp; 10</GroupId>\r\n
+        \   <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n    <ApplicationIdS>332525</ApplicationIdS>\r\n
+        \   <Address>\r\n      <PropertyId>440157</PropertyId>\r\n      <ApplicationId>332525</ApplicationId>\r\n
+        \     <Line1>172 Princes Highway</Line1>\r\n      <Line2>ARNCLIFFE NSW 2205
+        \                                             </Line2>\r\n      <FullLegalDescription>Lot
+        112  DP 734882</FullLegalDescription>\r\n      <PropertyStatus>C</PropertyStatus>\r\n
+        \     <ApplicationIdS>332525</ApplicationIdS>\r\n    </Address>\r\n    <Party>\r\n
+        \     <PartyId>733000</PartyId>\r\n      <ApplicationId>332525</ApplicationId>\r\n
+        \     <PartyRole>Applicant                                         </PartyRole>\r\n
+        \     <Sequence>1</Sequence>\r\n      <FamilyName>FITPLUSWELL MASSAGE PTY
+        LTD</FamilyName>\r\n      <GivenName xml:space=\"preserve\"> </GivenName>\r\n
+        \     <NameType>C</NameType>\r\n      <FullName>Fitpluswell (Massage) Pty
+        Ltd                     </FullName>\r\n      <Line1>172 Princes Hwy\rARNCLIFFE
+        \ NSW  2205</Line1>\r\n      <ApplicationIdS>332525</ApplicationIdS>\r\n    </Party>\r\n
+        \   <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>332525</ApplicationId>\r\n
+        \     <PartyRole>Municipality                                      </PartyRole>\r\n
+        \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
+        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
+        \     <FullName>Bayside Council                                   </FullName>\r\n
+        \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>332525</ApplicationIdS>\r\n
+        \   </Party>\r\n    <Event>\r\n      <ApplicationId>332525</ApplicationId>\r\n
+        \     <ApplicationIdS>332525</ApplicationIdS>\r\n    </Event>\r\n  </Application>\r\n
+        \ <Application>\r\n    <ApplicationId>332539</ApplicationId>\r\n    <NatureOfApplication>Development
+        Application                           </NatureOfApplication>\r\n    <NatureOfApplicationType>455</NatureOfApplicationType>\r\n
+        \   <ReferenceNumber>DA-2019/195</ReferenceNumber>\r\n    <Status>Application
+        Lodgement</Status>\r\n    <ReferenceNumberYear>2019</ReferenceNumberYear>\r\n
+        \   <ReferenceNumberNumber>195</ReferenceNumberNumber>\r\n    <ApplicationDetails>Change
+        of use to Light Industry.</ApplicationDetails>\r\n    <CreatedDate>2019-06-07T00:00:00+10:00</CreatedDate>\r\n
+        \   <LodgementDate>2019-06-07T00:00:00+10:00</LodgementDate>\r\n    <EstimatedCost>0.000000</EstimatedCost>\r\n
+        \   <DADays>3</DADays>\r\n    <NatureOfApplicationTypeAlpha>DA</NatureOfApplicationTypeAlpha>\r\n
+        \   <ApplicationIdS>332539</ApplicationIdS>\r\n    <Address>\r\n      <PropertyId>478474</PropertyId>\r\n
+        \     <ApplicationId>332539</ApplicationId>\r\n      <Line1>17 Salisbury Street</Line1>\r\n
+        \     <Line2>BOTANY NSW 2019                                              </Line2>\r\n
+        \     <FullLegalDescription>Lot 4  Sec15  DP 773</FullLegalDescription>\r\n
+        \     <PropertyStatus>C</PropertyStatus>\r\n      <ApplicationIdS>332539</ApplicationIdS>\r\n
+        \   </Address>\r\n    <Party>\r\n      <PartyId>733008</PartyId>\r\n      <ApplicationId>332539</ApplicationId>\r\n
+        \     <PartyRole>Applicant                                         </PartyRole>\r\n
+        \     <Sequence>1</Sequence>\r\n      <FamilyName>URBAN AND CO</FamilyName>\r\n
+        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
+        \     <FullName>Urban And Co                                      </FullName>\r\n
+        \     <Line1>111 Flinders St\rSURRY HILLS  NSW  2010</Line1>\r\n      <ApplicationIdS>332539</ApplicationIdS>\r\n
+        \   </Party>\r\n    <Party>\r\n      <PartyId>617800</PartyId>\r\n      <ApplicationId>332539</ApplicationId>\r\n
+        \     <PartyRole>Municipality                                      </PartyRole>\r\n
+        \     <Sequence>1</Sequence>\r\n      <FamilyName>BAYSIDE COUNCIL</FamilyName>\r\n
+        \     <GivenName xml:space=\"preserve\"> </GivenName>\r\n      <NameType>C</NameType>\r\n
+        \     <FullName>Bayside Council                                   </FullName>\r\n
+        \     <Line1>PO BOX 21\rROCKDALE  NSW  2216</Line1>\r\n      <ApplicationIdS>332539</ApplicationIdS>\r\n
+        \   </Party>\r\n    <Event>\r\n      <ApplicationId>332539</ApplicationId>\r\n
+        \     <ApplicationIdS>332539</ApplicationIdS>\r\n    </Event>\r\n  </Application>\r\n</NewDataSet>"
     http_version: 
   recorded_at: Tue, 14 May 2019 14:00:00 GMT
 recorded_with: VCR 5.0.0

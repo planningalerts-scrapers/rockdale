@@ -25,17 +25,12 @@
   date_scraped: '2019-05-15'
   info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=332320
 - council_reference: BC-2019/38
-  description: Construction of rear stairs and courtyard area
+  description: Unapproved Development - construction of rear stairs and courtyard
+    area
   date_received: '2019-06-07'
   address: 948 Botany Road, MASCOT NSW 2020
   date_scraped: '2019-05-15'
   info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=332515
-- council_reference: CC-2017/11182/1
-  description: Refer to BCC 2017/1182/1
-  date_received: '2019-05-24'
-  address: 48 Bunnerong Road, PAGEWOOD NSW 2035
-  date_scraped: '2019-05-15'
-  info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=331750
 - council_reference: CC-2018/207/1
   description: 6 & 8 Cecil Street, MONTEREY NSW 2217 - Stage 2 - remainder of building
     works
@@ -43,20 +38,6 @@
   address: 6 Cecil Street, MONTEREY NSW 2217
   date_scraped: '2019-05-15'
   info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=332312
-- council_reference: CC-2019/141
-  description: Demolition of existing outbuilding and construction of a new garage
-    and verandah at the rear of the existing dwelling
-  date_received: '2019-05-25'
-  address: 16 Farrell Road, KINGSGROVE NSW 2208
-  date_scraped: '2019-05-15'
-  info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=331769
-- council_reference: CC-2019/142
-  description: Demolition of existing dwelling and construction of a new 2 storey
-    dwelling and new front fence.
-  date_received: '2019-05-25'
-  address: 23 Rolfe Street, ROSEBERY NSW 2018
-  date_scraped: '2019-05-15'
-  info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=331771
 - council_reference: CC-2019/143
   description: Construction of 10 x 2 Storey Industrial Uniits.
   date_received: '2019-05-27'
@@ -143,34 +124,6 @@
   address: 81 Staples Street, KINGSGROVE NSW 2208
   date_scraped: '2019-05-15'
   info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=332426
-- council_reference: CD-2019/154
-  description: Demolition of existing house and in-ground swimming pool. Erection
-    of a new double storey residence.
-  date_received: '2019-05-24'
-  address: 22 Cecil Street, MONTEREY NSW 2217
-  date_scraped: '2019-05-15'
-  info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=331696
-- council_reference: CD-2019/155
-  description: Fitout of existing shop for cafe kiosk installing front counter, coffee
-    machine, food fridge, food freezer and display fridges
-  date_received: '2019-05-24'
-  address: 1 / 10 Reede Street, TURRELLA NSW 2205
-  date_scraped: '2019-05-15'
-  info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=331717
-- council_reference: CD-2019/156
-  description: Extension of a double brick house to include a master bedroom, double
-    garage and study / lounge room
-  date_received: '2019-05-24'
-  address: 49 Staples Street, KINGSGROVE NSW 2208
-  date_scraped: '2019-05-15'
-  info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=331745
-- council_reference: CD-2019/157
-  description: Internal alterations and replace rear door, not inclusive of rear deck
-    and stairs.
-  date_received: '2019-05-25'
-  address: 13 Kurnell Street, BOTANY NSW 2019
-  date_scraped: '2019-05-15'
-  info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=331767
 - council_reference: CD-2019/158
   description: Alterations and additions
   date_received: '2019-05-27'
@@ -309,6 +262,12 @@
   address: 4 Warialda Street, KOGARAH NSW 2217
   date_scraped: '2019-05-15'
   info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=331978
+- council_reference: DA-2017/262/B
+  description: removal of approved cabana
+  date_received: '2019-06-07'
+  address: 45 Eddystone Road, BEXLEY NSW 2207
+  date_scraped: '2019-05-15'
+  info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=332543
 - council_reference: DA-2017/54/C
   description: 27-31 Bryant Street, ROCKDALE NSW 2216 - Modification including deletion
     of basement level 4 and amendments to basement, fire stairs, common open space,
@@ -345,39 +304,6 @@
   address: 3 Dent Street, BOTANY NSW 2019
   date_scraped: '2019-05-15'
   info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=332158
-- council_reference: DA-2019/166
-  description: Demolition of existing dwelling
-  date_received: '2019-05-24'
-  address: 72 Banksia Street, BOTANY NSW 2019
-  date_scraped: '2019-05-15'
-  info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=331700
-- council_reference: DA-2019/167
-  description: Demolition of existing rear structures and construction of a detached
-    secondary dwelling with attached garage
-  date_received: '2019-05-24'
-  address: 402 Kingsgrove Road, KINGSGROVE NSW 2208
-  date_scraped: '2019-05-15'
-  info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=331715
-- council_reference: DA-2019/168
-  description: Alterations and additions to existing dwelling and construction of
-    a secondary dwelling
-  date_received: '2019-05-24'
-  address: 106 Tenterden Road, BOTANY NSW 2019
-  date_scraped: '2019-05-15'
-  info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=331718
-- council_reference: DA-2019/169
-  description: Demolition of existing dwelling and construction of new single storey
-    dwelling, hardstand car space in the front setback and front fence
-  date_received: '2019-05-24'
-  address: 2 Tramway Street, ROSEBERY NSW 2018
-  date_scraped: '2019-05-15'
-  info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=331738
-- council_reference: DA-2019/170
-  description: Construction of an awning to terrace of residential unit
-  date_received: '2019-05-24'
-  address: 202 / 342 - 344 Bay Street, BRIGHTON LE SANDS NSW 2216
-  date_scraped: '2019-05-15'
-  info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=331741
 - council_reference: DA-2019/171
   description: Addition of a digital LED sign within the existing pylon sign with
     frontage to Abercorn Street (St Gabriel's Catholic Primary School)
@@ -537,16 +463,21 @@
   address: 26 Chelmsford Avenue, BOTANY NSW 2019
   date_scraped: '2019-05-15'
   info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=332420
+- council_reference: DA-2019/194
+  description: Change of use to an indoor recreation facility
+  date_received: '2019-06-07'
+  address: 172 Princes Highway, ARNCLIFFE NSW 2205
+  date_scraped: '2019-05-15'
+  info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=332525
+- council_reference: DA-2019/195
+  description: Change of use to Light Industry.
+  date_received: '2019-06-07'
+  address: 17 Salisbury Street, BOTANY NSW 2019
+  date_scraped: '2019-05-15'
+  info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=332539
 - council_reference: DA-2019/48/A
   description: Modification to Condition 9 relating to stormwater design
   date_received: '2019-06-03'
   address: 4 Holloway Street, PAGEWOOD NSW 2035
   date_scraped: '2019-05-15'
   info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=332228
-- council_reference: SC-2019/25
-  description: Torrens Title Subdivision creating one (1) additional lot and two (2)
-    lots total
-  date_received: '2019-05-24'
-  address: 586 Rocky Point Road, SANS SOUCI NSW 2219
-  date_scraped: '2019-05-15'
-  info_url: http://rccweb.rockdale.nsw.gov.au/EPlanning/Pages/XC.Track/SearchApplication.aspx?id=331732
